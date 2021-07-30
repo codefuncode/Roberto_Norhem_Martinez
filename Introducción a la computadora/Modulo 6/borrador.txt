@@ -1,0 +1,1262 @@
+
+Los atajos de teclado (shortcuts en inglés) sirven para agilizar las tareas que hacemos a menudo y así aumentar nuestra productividad. Un atajo de teclado no es más que presionar una o varias teclas a la vez para abrir aplicaciones o hacer tareas que se pueden hacer con el ratón, aunque tardaríamos más. Por ejemplo, un atajo de teclado que seguro que conoces es el Ctrl + C que sirve para copiar.
+Los atajos de teclado básicos en Windows 10
+
+Ctrl + C: copiar, se copiará el texto seleccionado, la carpeta o la imagen o imágenes que tengamos seleccionadas en ese momento.
+Ctrl + X: cortar, se cortará el texto seleccionado, la carpeta o la imagen o imágenes que tengamos seleccionadas en ese momento.
+Ctrl + V: pegar, se pegará cualquier cosa que hayamos copiado o cortado anteriormente.
+Ctrl + Z: deshacer, deshace la ultima acción realizada.
+Ctrl + Y: rehacer, rehace la ultima acción realizada.
+Ctrl + P: imprimir, se abre el dialogo de impresión de la imagen, archivo o pagina web que tengamos abierta o seleccionada
+
+Los atajos de teclado en navegadores de internet
+
+Ctrl + N: abrir una ventana nueva.
+Ctrl + T: abrir pestaña nueva.
+Alt + F4: cerrar la ventana.
+Ctrl + W: cerrar pestaña.
+Ctrl + (1 al 0): ir a la pestaña correspondiente.
+Click con el botón central del ratón en un link: abre el link en una pestaña nueva.
+
+Los atajos de teclado de nivel medio en Windows 10
+
+Win + (1 al 0): Abrir la aplicación correspondiente que tengamos anclada en la barra de tareas.
+Ctrl + G: guardar para programas en español.
+Ctrl + S: guardar para programas en inglés (algunos programas con idioma castellano pero de origen anglosajón también utilizan este atajo).
+Ctrl + A: (1) abrir, para abrir un archivo en programas en español, o (2) seleccionar todo para programas en inglés.
+Ctrl + O: abrir, para abrir un archivo en programas en inglés.
+Ctrl + B: buscar, en programas en español.
+Ctrl + F: buscar, en programas en inglés o de origen inglés.
+
+Los atajos de teclado para organizar ventanas en Windows 10
+
+Win + D: minimizar todo, minimiza todas las ventanas y deja el foco en el escritorio.
+Win + Arriba: maximizar, maximiza la ventana activa.
+Win + Abajo: restaurar / Minimizar, si la ventana esta maximizada la restaura, y si esta sin maximizar la minimiza.
+Win + Derecha: anclar, ancla la ventana a la derecha del escritorio ocupando la mitad del mismo.
+Win + Iquierda: anclar, ancla la ventana a la izquierda del escritorio ocupando la mitad del mismo.
+Win + L: bloquear el usuario, cierra la sesión del usuario, solicitando la contraseña si está definida.
+Win + inicio: minimiza o restaura la ventana activa.
+
+Si tienes más de un monitor…
+
+Win + Shift + Izquierda: mueve la ventana activa al siguiente monitor.
+Win + Shift + Derecha: mueve la ventana activa al anterior monitor.
+
+Estos son algunos de los atajos de teclado más utilizados en Windows, aunque muchos de ellos también sirven en Mac OS y en GNU/Linux.
+
+Nota, las teclas que hemos usado son:
+
+Shift o tecla de mayúsculas
+Ctrl o tecla de control
+Win o tecla Windows, con el símbolo de Windows
+Alt o tecla alternativa
+
+Te puede interesar...
+cómo checkear la integridad de un fichero descargado (en windows)
+Cómo checkear la integridad de un fichero descargado (en Windows)
+Rubén Castro | 13 enero | Tecnología
+cómo encontrar y eliminar fotografías y archivos duplicados
+Cómo encontrar y eliminar fotografías y archivos duplicados
+Rubén Castro | 13 enero | Tecnología
+claves para crear un blog de éxito
+Claves para crear un blog de éxito
+Rubén Castro | 10 enero | Tecnología
+criptomonedas timos más típicos
+Criptomonedas: timos más típicos
+Rubén Castro | 12 diciembre | Criptomonedas
+bisbisco, escribe novelas con free software y de código abierto
+Bisbisco, escribe novelas con free software y de código abierto
+Rubén Castro | 14 enero | Tecnología
+¿ puedo hacer deporte con dolor de cabeza?
+¿Puedo hacer deporte con dolor de cabeza?
+Rubén Castro | 7 abril | Salud
+cuál es la diferencia (significado y legalmente) entre injuria y calumnia
+Cuál es la diferencia (significado y legalmente) entre injuria y calumnia
+Rubén Castro | 7 abril | Cultura
+cómo borrar imágenes, contenedores y volúmenes de docker
+Cómo borrar imágenes, contenedores y volúmenes de Docker
+Rubén Castro | 13 enero | Tecnología
+VidaXP
+
+Contacta con nosotros
+|
+Política de privacidad
+|
+Política de cookies
+|
+Aviso legal
+
+© 2021 VidaXP.com
+Conclusión
+Resumen
+Referencias
+
+Presiona esta tecla
+Para hacer esto
+Ctrl + X
+Cortar el elemento seleccionado.
+Ctrl + C (o Ctrl + Insertar)
+Copiar el elemento seleccionado.
+Ctrl + V (o Mayús + Insertar)
+Pegar el elemento seleccionado.
+Ctrl + Z
+Deshacer una acción.
+Alt + Tabulador
+Cambiar entre aplicaciones abiertas.
+Alt + F4
+Cerrar el elemento activo o salir de la aplicación activa.
+Tecla del logotipo de Windows  +L
+Bloquear el equipo.
+Tecla del logotipo de Windows  + D
+Mostrar y ocultar el escritorio.
+F2
+Cambiar el nombre del elemento seleccionado.
+F3
+Buscar un archivo o una carpeta en el Explorador de archivos.
+F4
+Mostrar la lista de la barra de direcciones en el Explorador de archivos.
+F5
+Actualizar la ventana activa.
+F6
+Desplazarse por los elementos de la pantalla en una ventana o en el escritorio.
+F10
+Activar la barra de menús en la aplicación activa.
+Alt + F8
+Mostrar la contraseña en la pantalla de inicio de sesión.
+Alt + Esc
+Desplazarse por los elementos en el orden en que se abrieron.
+Alt + letra subrayada
+Ejecutar el comando correspondiente a esa letra.
+Alt + Entrar
+Ver las propiedades del elemento seleccionado.
+Alt + Barra espaciadora
+Abrir el menú contextual de la ventana activa.
+Alt + Flecha izquierda
+Volver.
+Alt + Flecha derecha
+Ir hacia delante.
+Alt + Re Pág
+Subir una pantalla.
+Alt + Av Pág
+Bajar una pantalla.
+Ctrl + F4
+Cerrar el documento activo (en las aplicaciones que están abiertas a pantalla completa y que te permiten tener abiertos varios documentos simultáneamente).
+Ctrl + A
+Seleccionar todos los elementos en un documento o ventana.
+Ctrl + D (o Supr)
+Eliminar el elemento seleccionado y moverlo a la papelera de reciclaje.
+Ctrl + R (o F5)
+Actualizar la ventana activa.
+Ctrl + Y
+Rehacer una acción.
+Ctrl + Flecha derecha
+Mover el cursor al principio de la palabra siguiente.
+Ctrl + Flecha izquierda
+Mover el cursor al principio de la palabra anterior.
+Ctrl + Flecha abajo
+Mover el cursor al principio del párrafo siguiente.
+Ctrl + Flecha arriba
+Mover el cursor al principio del párrafo anterior.
+Ctrl + Alt + Tabulador
+Usar las teclas de dirección para cambiar entre todas las aplicaciones abiertas.
+Alt + Mayús + teclas de dirección
+Cuando un grupo o un icono tiene el foco en el menú Inicio, moverlo en la dirección especificada.
+Ctrl + Mayús + teclas de dirección
+Cuando una ventana tenga el foco en el menú Inicio, muévelo a otra ventana para crear una carpeta.
+Ctrl + teclas de dirección
+Cambiar el tamaño del menú Inicio cuando se abre.
+Ctrl + tecla de dirección (para desplazarse a un elemento) + Barra espaciadora
+Seleccionar varios elementos individuales en una ventana o en el escritorio.
+Ctrl + Mayús con una tecla de dirección
+Seleccionar un bloque de texto.
+Ctrl + Esc
+Abrir Inicio.
+Ctrl + Mayús + Esc
+Abrir el Administrador de tareas.
+Ctrl + Mayús
+Cambiar la distribución del teclado cuando hay varias distribuciones del teclado disponibles.
+Ctrl + Barra espaciadora
+Activar o desactivar el Editor de métodos de entrada (IME) para chino.
+Mayús + F10
+Mostrar el menú contextual del elemento seleccionado.
+Mayús con cualquier tecla de dirección
+Seleccionar varios elementos en una ventana o en el escritorio, o bien seleccionar texto en un documento.
+Mayús + Supr
+Eliminar el elemento seleccionado sin moverlo a la papelera de reciclaje.
+Flecha derecha
+Abrir el siguiente menú de la derecha o abrir un submenú.
+Flecha izquierda
+Abrir el siguiente menú de la izquierda o cerrar un submenú.
+Esc
+Detener la tarea actual o salir de ella.
+PrtScn
+Tomar una captura de pantalla de la pantalla completa y copiarla en el Portapapeles. 
+Nota
+• Puedes cambiar este acceso directo para que también se abra el recorte de pantalla, que te permite editar tu captura de pantalla. Selecciona Inicio   > Configuración > Accesibilidad> Teclado y activa el botón de alternancia situado debajo deAcceso directo para imprimir pantalla.
+
+Utiliza la tecla Impr Pant para abrir el recorte de pantalla
+
+
+
+
+
+
+
+Presiona esta tecla
+Para hacer esto
+Tecla del logotipo de Windows 
+Abrir o cerrar Inicio.
+Tecla del logotipo de Windows   + A
+Abrir el Centro de actividades.
+Tecla del logotipo de Windows  + B
+Llevar el foco al área de notificación.
+Tecla del logotipo de Windows   + C
+Abrir Cortana en modo de escucha.
+
+Notas
+• Este método abreviado está desactivado de forma predeterminada. Para activarlo, selecciona inicio > Configuración > Cortanay activa el botón de alternancia en Permitir que Cortana escuche mis comandos cuando presiono la tecla del logotipo de Windows + C.
+
+• Cortana está disponible solo en algunos países o regiones y es posible que algunas de sus funciones no estén disponibles en todos ellos. Si Cortana no está disponible o está desactivada, puedes seguir usando Buscar.
+
+Tecla del logotipo de Windows   + Mayús + C
+Abrir el menú de botones de acceso.
+Tecla del logotipo de Windows   + D
+Mostrar y ocultar el escritorio.
+Tecla del logotipo de Windows   + Mayús + D
+Mostrar y ocultar la fecha y hora en el escritorio.
+Tecla del logotipo de Windows   + E
+Abrir Explorador de archivos.
+Tecla del logotipo de Windows   + F
+Abrir el Centro de opiniones y hacer una captura de pantalla.
+Tecla del logotipo de Windows   + G
+Abrir la barra de juegos con un juego abierto.
+Tecla del logotipo de Windows   + H
+Iniciar dictado.
+Tecla del logotipo de Windows  + I
+Abrir configuración.
+Tecla del logotipo de Windows   + J
+Resaltar una sugerencia de Windows cuando esté disponible.
+
+Cuando aparece una sugerencia de Windows, esta se resalta.  Al presionar los métodos abreviados de teclado de nuevo para enfocar el elemento de la pantalla en el que está anclado la sugerencia de Windows.
+Tecla del logotipo de Windows   + K
+Abrir la acción rápida Conectar.
+Tecla del logotipo de Windows   + L
+Bloquear el equipo o cambiar de cuenta.
+Tecla del logotipo de Windows   + M
+Minimizar todas las ventanas.
+Tecla del logotipo de Windows  + O
+Bloquear la orientación del dispositivo.
+Tecla del logotipo de Windows   + P
+Elegir un modo de presentación.
+Tecla del logotipo de Windows  + Ctrl + Q
+Abrir Asistencia rápida.
+Tecla del logotipo de Windows  + R
+Abrir el cuadro de diálogo Ejecutar.
+Tecla del logotipo de Windows  + S
+Abrir la búsqueda.
+Tecla del logotipo de Windows  + Mayús + S
+Realizar una captura de pantalla de parte de la pantalla.
+Tecla del logotipo de Windows  + T
+Desplazarse por las aplicaciones de la barra de tareas.
+Tecla del logotipo de Windows  + U
+Abrir el Centro de accesibilidad.
+Tecla del logotipo de Windows  + V
+Abrir el Portapapeles. 
+Nota
+• Para activar este acceso directo, selecciona Inicio  > Configuración > Sistema > > Portapapeles y activa el botón de alternancia situado debajo de Historial del portapapeles.
+
+Tecla del logotipo de Windows   + Mayús + V
+Desplazarse por las notificaciones.
+Tecla del logotipo de Windows   + X
+Abrir el menú Vínculo rápido.
+Tecla del logotipo de Windows  + Y
+Cambiar entrada entre Windows Mixed Reality y el escritorio.
+Tecla del logotipo de Windows  + Z
+Mostrar los comandos disponibles en una aplicación en modo de pantalla completa.
+Tecla del logotipo de Windows  + punto (.) o punto y coma (;)
+Abrir el panel de emojis.
+Tecla del logotipo de Windows   + coma (,)
+Ojear temporalmente el escritorio.
+Tecla del logotipo de Windows   + Pausa
+Mostrar el cuadro de diálogo Propiedades del sistema
+Tecla del logotipo de Windows   + Ctrl + F
+Buscar equipos (en una red).
+Tecla del logotipo de Windows  + Mayús + M
+Restaurar las ventanas minimizadas en el escritorio.
+Tecla del logotipo de Windows   + número
+Abrir el escritorio e iniciar la aplicación anclada a la barra de tareas en la posición indicada por el número. Si la aplicación ya se está ejecutando, cambiar a esa aplicación.
+Tecla del logotipo de Windows   + Mayús + número
+Abrir el escritorio e iniciar una nueva instancia de la aplicación anclada a la barra de tareas en la posición indicada por el número.
+Tecla del logotipo de Windows   + Ctrl + número
+Abrir el escritorio y cambiar a la última ventana activa de la aplicación anclada a la barra de tareas en la posición indicada por el número.
+Tecla del logotipo de Windows   + Alt + número
+Abrir el escritorio y abrir la lista de accesos directos de la aplicación anclada a la barra de tareas en la posición indicada por el número.
+Tecla del logotipo de Windows   + Ctrl + Mayús + número
+Abrir el escritorio y abrir una nueva instancia de la aplicación ubicada en la posición determinada en la barra de tareas como administrador.
+Tecla del logotipo de Windows   + Tabulador
+Abrir la Vista de tareas.
+Tecla del logotipo de Windows   + Flecha arriba
+Maximizar la ventana.
+Tecla del logotipo de Windows   + Flecha abajo
+Quitar la aplicación actual de la pantalla o minimizar la ventana del escritorio.
+Tecla del logotipo de Windows   + Flecha izquierda
+Maximizar la ventana de la aplicación o del escritorio en el lado izquierdo de la pantalla.
+Tecla del logotipo de Windows  + Flecha derecha
+Maximizar la ventana de la aplicación o del escritorio en el lado derecho de la pantalla.
+Tecla del logotipo de Windows  + Inicio
+Minimizar todo excepto la ventana del escritorio activa (repetir la acción para restaurar todas las ventanas).
+Tecla del logotipo de Windows  + Mayús + Flecha arriba
+Expandir la ventana del escritorio a la parte superior e inferior de la pantalla.
+Tecla del logotipo de Windows  + Mayús + Flecha abajo
+Restaurar/minimizar las ventanas del escritorio activas verticalmente conservando el ancho.
+Tecla del logotipo de Windows   + Mayús + Flecha izquierda o derecha
+Mover una aplicación o ventana del escritorio de un monitor a otro.
+Tecla del logotipo de Windows   + Barra espaciadora
+Cambiar entre el idioma de entrada y la distribución del teclado.
+Tecla del logotipo de Windows   + Ctrl + Barra espaciadora
+Cambiar a una entrada seleccionada anteriormente.
+Tecla del logotipo de Windows   + Ctrl + Entrar
+Activar Narrador.
+Tecla del logotipo de Windows  + Más (+)
+Abrir la Lupa.
+Tecla del logotipo de Windows   +barra diagonal (/)
+Comenzar la reconversión de IME.
+Tecla del logotipo de Windows  + Ctrl + V
+Abrir notificaciones animadas.
+Tecla del logotipo de Windows  + Ctrl + Mayús + B
+Activar el PC desde una pantalla negra o en blanco
+
+Presiona esta tecla
+Para hacer esto
+Ctrl + C (o Ctrl + Insertar)
+Copiar el texto seleccionado.
+Ctrl + V (o Mayús + Insertar)
+Pegar el texto seleccionado.
+Ctrl + M
+Acceder al modo de marca.
+Alt + tecla de selección
+Iniciar la selección en modo de bloque.
+Teclas de dirección
+Mover el cursor en la dirección especificada.
+Re Pág
+Subir el cursor una página.
+Av Pág
+Bajar el cursor una página.
+Ctrl + Inicio (modo de marca)
+Mover el cursor al principio del búfer.
+Ctrl + Fin (modo de marca)
+Mover el cursor al final del búfer.
+Ctrl + Flecha arriba
+Subir una línea en el historial de salida.
+Ctrl + Flecha abajo
+Bajar una línea en el historial de salida.
+Ctrl + Inicio (navegación por el historial)
+Si la línea de comandos está vacía, mueve la ventanilla a la parte superior del búfer. De lo contrario, elimina todos los caracteres a la izquierda del cursor en la línea de comandos.
+Ctrl + Fin (navegación por el historial)
+Si la línea de comandos está vacía, mueve la ventanilla a la línea de comandos. De lo contrario, elimina todos los caracteres que se encuentran a la derecha del cursor en la línea de comandos.
+
+
+Presiona esta tecla
+Para hacer esto
+F4
+Mostrar los elementos de la lista activa.
+Ctrl + Tabulador
+Avanzar a través de las pestañas.
+Ctrl + Mayús + Tabulador
+Retroceder a través de las pestañas.
+Ctrl + número (número 1–9)
+Desplazarse a la enésima pestaña.
+Tabulador
+Avanzar a través de las opciones.
+Mayús + Tabulador
+Retroceder a través de las opciones.
+Alt + letra subrayada
+Ejecutar el comando (o seleccionar la opción) que se usa con la letra.
+Barra espaciadora
+Si la opción activa es una casilla, activarla o desactivarla.
+Retroceso
+Abrir una carpeta de un nivel superior si hay una carpeta seleccionada en el cuadro de diálogo Guardar como o Abrir.
+Teclas de dirección
+Si la opción activa es un grupo de botones de opción, seleccionar un botón.
+
+
+Presiona esta tecla
+Para hacer esto
+Alt + D
+Seleccionar la barra de direcciones.
+Ctrl + E
+Seleccionar el cuadro de búsqueda.
+Ctrl + F
+Seleccionar el cuadro de búsqueda.
+Ctrl + N
+Abrir una ventana nueva.
+Ctrl + W
+Cierre la ventana activa.
+Ctrl + rueda del ratón
+Cambiar el tamaño y la apariencia de los iconos de archivos y carpetas.
+Ctrl + Mayús + E
+Mostrar todas las carpetas situadas sobre la carpeta seleccionada.
+Ctrl + Mayús + N
+Crear una carpeta nueva.
+Bloq Num + asterisco (*)
+Mostrar todas las subcarpetas de la carpeta seleccionada.
+Bloq Num + signo más (+)
+Mostrar el contenido de la carpeta seleccionada.
+Bloq Num + signo menos (-)
+Contraer la carpeta seleccionada.
+Alt + P
+Mostrar el panel de vista previa.
+Alt + Entrar
+Abrir el cuadro de diálogo Propiedades del elemento seleccionado.
+Alt + Flecha derecha
+Ver la carpeta siguiente.
+Alt + Flecha arriba
+Ver la carpeta que contenía la carpeta.
+Alt + Flecha izquierda
+Ver la carpeta anterior.
+Retroceso
+Ver la carpeta anterior.
+Flecha derecha
+Mostrar la selección actual si está contraída o seleccionar la primera subcarpeta.
+Flecha izquierda
+Contraer la selección actual si está expandida o seleccionar la carpeta que contenía la carpeta.
+Fin
+Mostrar la parte inferior de la ventana activa.
+Inicio
+Mostrar la parte superior de la ventana activa.
+F11
+Maximizar o minimizar la ventana activa.
+
+
+Presiona esta tecla
+Para hacer esto
+Tecla del logotipo de Windows  + Tabulador
+Abrir la Vista de tareas.
+Tecla del logotipo de Windows  + Ctrl + D
+Agregar un escritorio virtual.
+Tecla del logotipo de Windows  + Ctrl + Flecha derecha
+Alternar entre los escritorios virtuales que has creado a la derecha.
+Tecla del logotipo de Windows  + Ctrl + Flecha izquierda
+Alternar entre los escritorios virtuales que has creado a la izquierda.
+Tecla del logotipo de Windows  + Ctrl + F4
+Cerrar el escritorio virtual que estás usando.
+
+
+Presiona esta tecla
+Para hacer esto
+Mayús + clic en un botón de la barra de tareas
+Abrir una aplicación o abrir rápidamente otra instancia de una aplicación.
+Ctrl + Mayús + clic en un botón de la barra de tareas
+Abrir una aplicación como un administrador.
+Mayús + clic con el botón derecho en un botón de la barra de tareas
+Mostrar el menú de la ventana de la aplicación.
+Mayús + clic con el botón derecho en un botón de la barra de tareas agrupadas
+Mostrar el menú de la ventana del grupo.
+Ctrl + clic en un botón de la barra de tareas agrupadas
+Desplazarse a través de las ventanas del grupo.
+
+
+Presiona esta tecla
+Para hacer esto
+Tecla del logotipo de Windows  + I
+Abrir configuración.
+Retroceso
+Volver a la página principal de Configuración.
+Escribir en cualquier página con el cuadro de búsqueda
+Buscar en Configuración.
+• 
+Métodos abreviados de teclado de las aplicaciones
+
+• Accesos directos de teclado de Windows para accesibilidad
+
+• Métodos abreviados de teclado de Microsoft Surface Hub
+
+• Métodos abreviados de teclado de Continuum para teléfonos
+
+
+SUSCRIBIR FUENTES RSS 	
+
+
+
+¿Necesita más ayuda?
+
+
+
+
+
+
+Únase a la charla 			
+Preguntar a la comunidad 		
+
+
+Obtener soporte técnico 			
+Póngase en contacto con nosotros 		
+
+
+
+
+
+
+
+
+
+
+
+Una suscripción para aprovechar al máximo su tiempo
+
+
+
+
+Pruebe un mes gratis
+
+
+
+
+
+
+
+
+
+
+
+
+
+¡Gracias por sus comentarios!
+
+
+
+× 		
+
+
+Novedades
+• Surface Laptop 4
+• Surface Laptop Go
+• Surface Go 2
+• Surface Pro X
+• Surface Book 3
+• Microsoft 365
+• Aplicaciones de Windows 10
+• HoloLens 2
+Microsoft Store
+• Perfil de la cuenta
+• Centro de descarga
+• Soporte de Microsoft Store
+• Devoluciones
+• Seguimiento de pedidos
+• Reciclar
+• Garantías comerciales
+Educación
+• Microsoft en la educación
+• Office para estudiantes
+• Office 365 para escuelas
+• Ofertas para estudiantes y padres
+• Microsoft Azure en la educación
+Empresa
+• Azure
+• AppSource
+• Automoción
+• Administraciones públicas
+• Salud
+• Fabricación
+• Servicios financieros
+• Comercio al por menor
+Desarrollador
+• Microsoft Visual Studio
+• Centro de desarrollo de Windows
+• Centro para desarrolladores
+• Programa de desarrolladores de Microsoft
+• Channel 9
+• Microsoft 365 Dev Center
+• Microsoft 365 Developer Program
+Compañía
+• Oportunidades de empleo
+• Acerca de Microsoft
+• Noticias de la compañía
+• Privacidad en Microsoft
+• Inversores
+• Seguridad
+Español (España, alfabetización internacional)
+• Ponte en contacto con Microsoft
+• Privacidad
+• Condiciones de uso
+• Marcas registradas
+• Sobre nuestra publicidad
+• Docs de cumplimiento de la UE
+• © Microsoft 2021
+
+
+
+Funciones rápidas de teclado del Mac
+
+Si pulsas ciertas combinaciones de teclas, se pueden realizar acciones para las que normalmente se necesita un ratón, un trackpad u otro dispositivo de entrada.
+
+Para usar una función rápida, mantén pulsadas una o más teclas de modificación y, a continuación, pulsa la última tecla de la función. Por ejemplo, para usar Comando-C (copiar), mantén pulsada la tecla Comando y, a continuación, pulsa la tecla C y luego suelta las dos teclas. Los menús y los teclados del Mac normalmente utilizan símbolos para determinadas teclas, entre las que se incluyen las teclas de modificación siguientes:
+
+Comando (o Cmd) ⌘
+Mayúsculas ⇧
+
+Opción (o Alt) ⌥
+Control (o Ctrl) ⌃
+
+Bloqueo Mayúsculas ⇪
+Fn
+
+
+En los teclados fabricados para los PC con Windows, utiliza la tecla Alt en lugar de la tecla Opción, y la tecla con el logotipo de Windows en lugar de la tecla Comando.
+
+Algunas teclas de los teclados Apple tienen símbolos y funciones especiales, como regular el brillo de la pantalla , el brillo del teclado , Mission Control y mucho más. Si estas funciones no están disponibles en tu teclado, es posible que puedas reproducir algunas creando tus propias funciones rápidas de teclado. Para usar estas teclas como F1, F2, F3 u otras teclas de función estándar, combínalas con la tecla Fn.
+
+Cortar, copiar, pegar y otras funciones rápidas habituales
+
+Comando-X: cortar el ítem seleccionado y copiarlo en el Portapapeles.
+Comando-C: copiar el ítem seleccionado en el Portapapeles. Esto también funciona con los archivos del Finder.
+Comando-V: pegar el contenido del Portapapeles en el documento o la app activa. Esto también funciona con los archivos del Finder.
+Comando-Z: deshacer el comando anterior. A continuación puedes pulsar Mayús-Comando-Z para Rehacer, así se invertirá el comando Deshacer. En algunas apps, puedes deshacer y rehacer varios comandos.
+Comando-A: seleccionar todos los elementos.
+Comando-F: encontrar elementos en un documento o abrir una ventana de búsqueda.
+Comando-G: buscar siguiente, es decir, buscar la siguiente aparición del ítem buscado anteriormente. Para buscar la aparición anterior, pulsa Mayús-Comando-G.
+Comando-H: ocultar las ventanas de la app en primer plano. Para ver la app en primer plano y ocultar las demás apps, pulsa Opción-Comando-H.
+Comando-M: minimizar la ventana que se encuentra en primer plano al Dock. Para minimizar todas las ventanas de la app en primer plano, pulsa Opción-Comando-M.
+Comando-O: abrir el elemento seleccionado, o abrir un cuadro de diálogo para seleccionar el archivo que se va a abrir.
+Comando-P: imprimir el documento activo.
+Comando-S: guardar el documento activo.
+Comando-T: abrir una nueva pestaña.
+Comando-W: cerrar la ventana que se encuentra en primer plano. Para cerrar todas las ventanas de la app, pulsa Opción-Comando-W.
+Opción-Comando-Esc: forzar la salida de una app.
+Comando-Barra espaciadora: mostrar u ocultar el campo de búsqueda de Spotlight. Para realizar una búsqueda de Spotlight desde una ventana del Finder, pulsa Comando-Opción-Barra espaciadora (si utilizas varias fuentes de entrada para escribir en diferentes idiomas, estas funciones rápidas las cambian en lugar de mostrar Spotlight. Obtén información acerca de cómo cambiar una función rápida de teclado en conflicto).
+Control-Comando-Barra espaciadora: mostrar el Visor de teclado, desde el que puedes seleccionar emoji y otros símbolos.
+Control-Comando-F: usar la app en pantalla completa si esta lo permite.
+Barra espaciadora: usar Vista Rápida para ver una vista previa del elemento seleccionado.
+Comando-Tabulador: cambiar a la siguiente app utilizada más recientemente entre las apps que tengas abiertas. 
+Mayús-Comando-5: en macOS Mojave o versiones posteriores, hacer una captura de pantalla o iniciar una grabación de pantalla. También puedes usar Mayús-Comando-3 o Mayús-Comando-4 para las capturas de pantalla. Obtén más información sobre capturas de pantalla.
+Mayús-Comando-N: crear una nueva carpeta en el Finder.
+Comando-Coma (,): abrir las preferencias de la app que se encuentra en primer plano.
+
+Funciones rápidas de reposo, cerrar sesión y apagar
+
+Es posible que tengas que mantener pulsadas algunas de estas funciones rápidas durante un poco más tiempo que otras. Esto te ayuda a evitar que las uses accidentalmente.
+
+Botón de encendido: pulsar para encender el Mac o para salir del modo de reposo. Mantenlo pulsado durante 1,5 segundos para poner el Mac en reposo.* Sigue manteniéndolo pulsado para apagar por completo el Mac.
+Opción-Comando-Botón de encendido* u Opción-Comando-Expulsión de discos : poner el Mac en modo reposo.
+Control-Mayús-Botón de encendido* o Control-Mayús-Expulsión de discos : poner la pantalla en reposo.
+Control-Botón de encendido* o Control-Expulsión de discos : mostrar un diálogo en el que se pregunta si quieres reiniciar, apagar o poner en reposo.
+Control-Comando-Botón de encendido:* forzar el reinicio del Mac sin preguntar si se quieren guardar los documentos abiertos y sin guardar.
+Control-Comando-Expulsión de discos : salir de todas las apps y reiniciar el Mac. Si alguno de los documentos abiertos tiene cambios sin guardar, se te preguntará si quieres guardarlos.
+Control-Opción-Comando-Botón de encendido* o Control-Opción-Comando-Expulsión de discos : salir de todas las apps y apagar el Mac. Si alguno de los documentos abiertos tiene cambios sin guardar, se te preguntará si quieres guardarlos.
+Control-Comando-Q: bloquear inmediatamente la pantalla.
+Mayús-Comando-Q: cerrar sesión de la cuenta de usuario de macOS. Se te pedirá que confirmes. Para cerrar sesión inmediatamente sin confirmación, pulsa Opción-Mayús-Comando-Q.
+
+* No se aplica al sensor de Touch ID.
+
+Funciones rápidas del Finder y del sistema
+
+Comando-D: duplicar los archivos seleccionados.
+Comando-E: expulsar el disco o el volumen seleccionado.
+Comando-F: iniciar una búsqueda de Spotlight en la ventana del Finder.
+Comando-I: mostrar la ventana Obtener información de un archivo seleccionado.
+Comando-R: (1) Cuando hay un alias seleccionado en el Finder: mostrar el archivo original del alias. (2) En algunas apps, como Calendario o Safari, actualizar o volver a cargar la página. (3) En las preferencias de Actualización de software, comprobar de nuevo si hay actualizaciones de software.
+Mayús-Comando-C: abrir la ventana Equipo.
+Mayús-Comando-D: abrir la carpeta Escritorio.
+Mayús-Comando-F: abrir la ventana Recientes, donde podrás ver todos los archivos que has abierto o modificado recientemente.
+Mayús-Comando-G: abrir la ventana Ir a la carpeta.
+Mayús-Comando-H: abrir la carpeta de inicio de la cuenta de usuario de macOS activa.
+Mayús-Comando-I: abrir iCloud Drive.
+Mayús-Comando-K: abrir la ventana Red.
+Mayús-Comando-L: abrir la carpeta Descargas.
+Mayús-Comando-N: crear una carpeta.
+Mayús-Comando-O: abrir la carpeta Documentos.
+Mayús-Comando-P: mostrar u ocultar el panel de vista previa en ventanas del Finder.
+Mayús-Comando-R: abrir la ventana AirDrop.
+Mayús-Comando-T: mostrar u ocultar la barra de pestañas en las ventanas del Finder. 
+Control-Mayús-Comando-T: añadir el ítem seleccionado del Finder al Dock (OS X Mavericks o una versión posterior).
+Mayús-Comando-U: abrir la carpeta Utilidades.
+Mayús-Comando-D: mostrar u ocultar el Dock. 
+Mayús-Comando-T: añadir el ítem seleccionado a la barra lateral (OS X Mavericks o una versión posterior).
+Mayús-Comando-P: ocultar o mostrar la barra de ruta en las ventanas del Finder.
+Mayús-Comando-S: ocultar o mostrar la barra lateral de las ventanas del Finder.
+Comando-Barra (/): ocultar o mostrar la barra de estado de las ventanas del Finder.
+Comando-J: mostrar opciones de visualización.
+Comando-K: abrir la ventana Conectarse al servidor.
+Control-Comando-A: crear un alias del elemento seleccionado.
+Comando-N: abrir una ventana nueva del Finder.
+Opción-Comando-N: crear una Carpeta inteligente.
+Comando-T: mostrar u ocultar la barra de pestañas cuando solo haya una pestaña abierta en la ventana activa del Finder.
+Opción-Comando-T: mostrar u ocultar la barra de herramientas cuando solo haya una pestaña abierta en la ventana del Finder activa.
+Opción-Comando-V: trasladar los archivos del Portapapeles desde su ubicación original a la ubicación actual.
+Comando-Y: utilizar la Vista rápida para ver una vista previa de los archivos seleccionados.
+Opción-Comando-Y: ver un pase de diapositivas de Vista rápida con los archivos seleccionados.
+Comando-1: ver los elementos de la ventana del Finder como iconos.
+Comando-2: ver los ítems de una ventana del Finder como una lista.
+Comando-3: ver los elementos de una ventana del Finder en columnas. 
+Comando-4: ver los elementos de una ventana del Finder en una galería.
+Comando-Corchete izquierdo ([): ir a la carpeta anterior.
+Comando-Corchete derecho (]): ir a la carpeta siguiente.
+Comando-Flecha arriba: abrir la carpeta que contiene la carpeta actual.
+Comando-Control-Flecha arriba: abrir la carpeta que contiene la carpeta actual en una ventana nueva.
+Comando-Flecha abajo: abrir el elemento seleccionado.
+Flecha derecha: abrir la carpeta seleccionada. Esto solo funciona con la vista de lista.
+Flecha izquierda: cerrar la carpeta seleccionada. Esto solo funciona con la vista de lista.
+Comando-Suprimir: trasladar el ítem seleccionado a la papelera.
+Mayús-Comando-Suprimir: vaciar la papelera.
+Opción-Mayús-Comando-Suprimir: vaciar la Papelera sin que aparezca un cuadro de confirmación.
+Comando-Bajar brillo: activar o desactivar la duplicación de vídeo cuando el Mac esté conectado a más de una pantalla.
+Opción-Subir brillo: abrir el panel de preferencias Pantallas. Esto funciona con cualquier tecla de brillo.
+Control-Subir brillo o Control-Bajar brillo: modificar el brillo de la pantalla externa, si la pantalla lo permite.
+Opción-Mayús-Subir brillo o Opción-Mayús-Bajar brillo: ajustar el brillo de la pantalla en intervalos más pequeños. Añade la tecla Control a esta función rápida para hacer el ajuste en la pantalla externa, si la pantalla lo permite.
+Opción-Mission Control: abrir las preferencias de Mission Control.
+Comando-Mission Control: mostrar el escritorio. 
+Control-Flecha abajo: mostrar todas las ventanas de la app en primer plano.
+Opción-Subir volumen: abrir las preferencias de sonido. Esto funciona con cualquiera de las teclas de volumen.
+Opción-Mayús-Subir volumen o Opción-Mayús-Bajar volumen: ajustar el volumen de sonido en intervalos más pequeños.
+Opción-Subir brillo del teclado: abrir las preferencias del teclado. Esto funciona con cualquier tecla de brillo del teclado.
+Opción-Mayús-Subir brillo del teclado o Opción-Mayús-Bajar brillo del teclado: ajustar el brillo del teclado en intervalos más pequeños.
+Tecla Opción mientras haces doble clic: abrir el elemento en otra ventana y cerrar la ventana actual.
+Tecla Comando mientras haces doble clic: abrir una carpeta en otra pestaña o ventana.
+Tecla Comando mientras arrastras a otro volumen: mover el ítem arrastrado a otro volumen en lugar de copiarlo. 
+Tecla Opción mientras arrastras: copiar el elemento arrastrado. El puntero cambia mientras arrastras el ítem.
+Opción-Comando mientras arrastras: crear un alias del ítem arrastrado. El puntero cambia mientras arrastras el ítem.
+Opción-Clic en un triángulo desplegable: abrir todas las carpetas de la carpeta seleccionada. Esto solo funciona con la vista de lista.
+Comando-Clic en el título de una ventana: ver las carpetas que contiene la carpeta activa.
+Obtén información acerca de cómo usar Comando o Mayúsculas para seleccionar varios ítems en el Finder. 
+Haz clic en el menú Ir en la barra de menús del Finder para ver las funciones rápidas para abrir las carpetas más usadas, como Aplicaciones, Documentos, Descargas, Utilidades y iCloud Drive.
+
+Funciones rápidas de documentos
+
+El comportamiento de estas funciones rápidas puede variar según la app que estés usando.
+
+Comando-B: poner en negrita el texto seleccionado, o bien activar o desactivar la negrita. 
+Comando-I: poner en cursiva el texto seleccionado, o bien activar o desactivar la cursiva.
+Comando-K: añadir un enlace web.
+Comando-U: subrayar el texto seleccionado, o bien activar o desactivar el subrayado.
+Comando-T: mostrar u ocultar la ventana Tipos de letra.
+Comando-D: seleccionar la carpeta Escritorio desde los cuadros de diálogo Abrir o Guardar.
+Control-Comando-D: mostrar u ocultar la definición de la palabra seleccionada.
+Mayús-Comando-dos puntos (:): mostrar la ventana Ortografía y gramática.
+Comando-Punto y coma (;): buscar palabras mal escritas en el documento.
+Opción-Suprimir: eliminar la palabra situada a la izquierda del punto de inserción.
+Control-H: eliminar el carácter situado a la izquierda del punto de inserción. También se puede utilizar Suprimir.
+Control-D: eliminar el carácter situado a la derecha del punto de inserción. También se puede utilizar Fn-Suprimir.
+Fn-Suprimir: suprimir en los teclados que no tienen la tecla Suprimir. También puedes utilizar Control-D.
+Control-K: eliminar el texto situado entre el punto de inserción y el final de la línea o el párrafo.
+Fn-Flecha arriba: página anterior, es decir, desplazarse una página hacia arriba. 
+Fn-Flecha abajo: página siguiente, es decir, desplazarse una página hacia abajo.
+Fn-Flecha izquierda: inicio, es decir, desplazarse hasta el inicio de un documento.
+Fn-Flecha derecha: final, es decir, desplazarse hasta el final de un documento.
+Comando-Flecha arriba: mover el punto de inserción hasta el inicio del documento.
+Comando-Flecha abajo: mover el punto de inserción hasta el final del documento.
+Comando-Flecha izquierda: mover el punto de inserción hasta el inicio de la línea activa.
+Comando-Flecha derecha: mover el punto de inserción hasta el final de la línea activa.
+Opción-Flecha izquierda: mover el punto de inserción hasta el inicio de la palabra anterior.
+Opción-Flecha derecha: mover el punto de inserción hasta el final de la palabra siguiente.
+Mayús-Comando-Flecha arriba: seleccionar el texto situado entre el punto de inserción y el inicio del documento.
+Mayús-Comando-Flecha abajo: seleccionar el texto situado entre el punto de inserción y el final del documento.
+Mayús-Comando-Flecha izquierda: seleccionar el texto situado entre el punto de inserción y el inicio de la línea activa.
+Mayús-Comando-Flecha derecha: seleccionar el texto situado entre el punto de inserción y el final de la línea activa.
+Mayús-Flecha arriba: ampliar la selección de texto hasta el carácter más próximo situado en la misma ubicación horizontal de la línea de arriba.
+Mayús-Flecha abajo: ampliar la selección de texto hasta el carácter más próximo situado en la misma ubicación horizontal de la línea de abajo.
+Mayús-Flecha izquierda: ampliar la selección de texto un carácter a la izquierda.
+Mayús-Flecha derecha: ampliar la selección de texto un carácter a la derecha.
+Opción-Mayús-Flecha arriba: ampliar la selección al principio del párrafo activo y, si se vuelve a pulsar inmediatamente, al principio del siguiente párrafo.
+Opción-Mayús-Flecha abajo: ampliar la selección hasta el final del párrafo activo y, si se vuelve a pulsar, al final del siguiente párrafo.
+Opción-Mayús-Flecha izquierda: ampliar la selección hasta el principio de la palabra activa y, si se vuelve a pulsar, al principio de la siguiente palabra.
+Opción-Mayús-Flecha derecha: ampliar la selección al final de la palabra activa y, si se vuelve a pulsar inmediatamente, al final de la siguiente palabra.
+Control-A: pasar al inicio de la línea o el párrafo.
+Control-E: pasar al final de la línea o el párrafo.
+Control-F: avanzar un carácter hacia adelante.
+Control-B: retroceder un carácter hacia atrás.
+Control-L: centrar el cursor o la selección en la zona visible.
+Control-P: desplazarse una línea hacia arriba.
+Control-N: desplazarse una línea hacia abajo.
+Control-O: insertar una línea nueva después del punto de inserción.
+Control-T: intercambiar el carácter situado detrás del punto de inserción por el carácter situado delante del punto de inserción.
+Comando-Apertura de llaves curvas ({): alinear a la izquierda.
+Comando-Cierre de llaves curvas ({): alinear a la derecha.
+Mayús-Comando-Barra vertical (|): alinear al centro.
+Opción-Comando-F: ir al campo de búsqueda. 
+Opción-Comando-T: mostrar u ocultar una barra de herramientas de la app.
+Opción-Comando-C: copiar estilo, es decir, copiar los ajustes de formato del ítem seleccionado en el Portapapeles.
+Opción-Comando-V: pegar estilo, es decir, aplicar el estilo copiado en el ítem seleccionado.
+Opción-Mayús-Comando-V: pegar con el mismo estilo, es decir, aplicar en el ítem pegado el estilo del contenido que lo rodea.
+Opción-Comando-I: mostrar u ocultar la ventana del inspector.
+Mayús-Comando-P: ajustar página, es decir, mostrar una ventana para seleccionar los ajustes del documento.
+Mayús-Comando-S: mostrar el cuadro de diálogo Guardar como, o bien duplicar el documento activo.
+Mayús-Comando-Signo menos (-): reducir el tamaño del ítem seleccionado.
+Mayús-Comando-Signo más (+): aumentar el tamaño del ítem seleccionado. Comando-Signo igual (=) realiza la misma función.
+Mayús-Comando-Signo de interrogación (?): abrir el menú Ayuda.
+
+Otras funciones rápidas
+
+Revisa los comandos de funciones rápidas que se muestran en los menús de las apps si necesitas más funciones rápidas. Cada app puede tener sus propias funciones rápidas y las funciones rápidas que sirven en una app podrían no servir para otra. 
+
+Funciones rápidas de accesibilidad
+Funciones rápidas de Safari
+Funciones rápidas de Spotlight
+Funciones rápidas de arranque
+Funciones rápidas de teclado de Apple Music: selecciona Ayuda > Funciones rápidas de teclado en la barra de menús de la app Música.
+Otras funciones rápidas: selecciona el menú Apple > Preferencias del Sistema, haz clic en Teclado y, a continuación, haz clic en Funciones rápidas.
+
+Más información
+
+Usar emojis, acentos y símbolos
+Crear tus propias funciones rápidas y resolver conflictos entre funciones rápidas
+Cambiar el comportamiento de las teclas de función o las teclas de modificación
+Usar un comando de voz para una función rápida de teclado
+
+Fecha de publicación: 22 de enero de 2021
+¿Te ha resultado útil?
+Inicia una conversación en las Comunidades de soporte de Apple
+Preguntar a otros sobre este artículo
+Preguntar a otros sobre este artículo
+Ver todas las preguntas de este artículo
+Apple Footer
+ Apple
+
+Soporte técnico
+Funciones rápidas de teclado del Mac
+
+España
+Copyright © 2021 Apple Inc. Todos los derechos reservados.
+Política de Privacidad Condiciones de uso Ventas y reembolsos Mapa del sitio Uso de las cookies
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+
+=======================================================================================================
+Funciones rápidas del Finder y del sistema
+
+Comando-D: duplicar los archivos seleccionados.
+Comando-E: expulsar el disco o el volumen seleccionado.
+Comando-F: iniciar una búsqueda de Spotlight en la ventana del Finder.
+Comando-I: mostrar la ventana Obtener información de un archivo seleccionado.
+Comando-R: (1) Cuando hay un alias seleccionado en el Finder: mostrar el archivo original del alias. (2) En algunas apps, como Calendario o Safari, actualizar o volver a cargar la página. (3) En las preferencias de Actualización de software, comprobar de nuevo si hay actualizaciones de software.
+Mayús-Comando-C: abrir la ventana Equipo.
+Mayús-Comando-D: abrir la carpeta Escritorio.
+Mayús-Comando-F: abrir la ventana Recientes, donde podrás ver todos los archivos que has abierto o modificado recientemente.
+Mayús-Comando-G: abrir la ventana Ir a la carpeta.
+Mayús-Comando-H: abrir la carpeta de inicio de la cuenta de usuario de macOS activa.
+Mayús-Comando-I: abrir iCloud Drive.
+Mayús-Comando-K: abrir la ventana Red.
+Mayús-Comando-L: abrir la carpeta Descargas.
+Mayús-Comando-N: crear una carpeta.
+Mayús-Comando-O: abrir la carpeta Documentos.
+Mayús-Comando-P: mostrar u ocultar el panel de vista previa en ventanas del Finder.
+Mayús-Comando-R: abrir la ventana AirDrop.
+Mayús-Comando-T: mostrar u ocultar la barra de pestañas en las ventanas del Finder. 
+Control-Mayús-Comando-T: añadir el ítem seleccionado del Finder al Dock (OS X Mavericks o una versión posterior).
+Mayús-Comando-U: abrir la carpeta Utilidades.
+Mayús-Comando-D: mostrar u ocultar el Dock. 
+Mayús-Comando-T: añadir el ítem seleccionado a la barra lateral (OS X Mavericks o una versión posterior).
+Mayús-Comando-P: ocultar o mostrar la barra de ruta en las ventanas del Finder.
+Mayús-Comando-S: ocultar o mostrar la barra lateral de las ventanas del Finder.
+Comando-Barra (/): ocultar o mostrar la barra de estado de las ventanas del Finder.
+Comando-J: mostrar opciones de visualización.
+Comando-K: abrir la ventana Conectarse al servidor.
+Control-Comando-A: crear un alias del elemento seleccionado.
+Comando-N: abrir una ventana nueva del Finder.
+Opción-Comando-N: crear una Carpeta inteligente.
+Comando-T: mostrar u ocultar la barra de pestañas cuando solo haya una pestaña abierta en la ventana activa del Finder.
+Opción-Comando-T: mostrar u ocultar la barra de herramientas cuando solo haya una pestaña abierta en la ventana del Finder activa.
+Opción-Comando-V: trasladar los archivos del Portapapeles desde su ubicación original a la ubicación actual.
+Comando-Y: utilizar la Vista rápida para ver una vista previa de los archivos seleccionados.
+Opción-Comando-Y: ver un pase de diapositivas de Vista rápida con los archivos seleccionados.
+Comando-1: ver los elementos de la ventana del Finder como iconos.
+Comando-2: ver los ítems de una ventana del Finder como una lista.
+Comando-3: ver los elementos de una ventana del Finder en columnas. 
+Comando-4: ver los elementos de una ventana del Finder en una galería.
+Comando-Corchete izquierdo ([): ir a la carpeta anterior.
+Comando-Corchete derecho (]): ir a la carpeta siguiente.
+Comando-Flecha arriba: abrir la carpeta que contiene la carpeta actual.
+Comando-Control-Flecha arriba: abrir la carpeta que contiene la carpeta actual en una ventana nueva.
+Comando-Flecha abajo: abrir el elemento seleccionado.
+Flecha derecha: abrir la carpeta seleccionada. Esto solo funciona con la vista de lista.
+Flecha izquierda: cerrar la carpeta seleccionada. Esto solo funciona con la vista de lista.
+Comando-Suprimir: trasladar el ítem seleccionado a la papelera.
+Mayús-Comando-Suprimir: vaciar la papelera.
+Opción-Mayús-Comando-Suprimir: vaciar la Papelera sin que aparezca un cuadro de confirmación.
+Comando-Bajar brillo: activar o desactivar la duplicación de vídeo cuando el Mac esté conectado a más de una pantalla.
+Opción-Subir brillo: abrir el panel de preferencias Pantallas. Esto funciona con cualquier tecla de brillo.
+Control-Subir brillo o Control-Bajar brillo: modificar el brillo de la pantalla externa, si la pantalla lo permite.
+Opción-Mayús-Subir brillo o Opción-Mayús-Bajar brillo: ajustar el brillo de la pantalla en intervalos más pequeños. Añade la tecla Control a esta función rápida para hacer el ajuste en la pantalla externa, si la pantalla lo permite.
+Opción-Mission Control: abrir las preferencias de Mission Control.
+Comando-Mission Control: mostrar el escritorio. 
+Control-Flecha abajo: mostrar todas las ventanas de la app en primer plano.
+Opción-Subir volumen: abrir las preferencias de sonido. Esto funciona con cualquiera de las teclas de volumen.
+Opción-Mayús-Subir volumen o Opción-Mayús-Bajar volumen: ajustar el volumen de sonido en intervalos más pequeños.
+Opción-Subir brillo del teclado: abrir las preferencias del teclado. Esto funciona con cualquier tecla de brillo del teclado.
+Opción-Mayús-Subir brillo del teclado o Opción-Mayús-Bajar brillo del teclado: ajustar el brillo del teclado en intervalos más pequeños.
+Tecla Opción mientras haces doble clic: abrir el elemento en otra ventana y cerrar la ventana actual.
+Tecla Comando mientras haces doble clic: abrir una carpeta en otra pestaña o ventana.
+Tecla Comando mientras arrastras a otro volumen: mover el ítem arrastrado a otro volumen en lugar de copiarlo. 
+Tecla Opción mientras arrastras: copiar el elemento arrastrado. El puntero cambia mientras arrastras el ítem.
+Opción-Comando mientras arrastras: crear un alias del ítem arrastrado. El puntero cambia mientras arrastras el ítem.
+Opción-Clic en un triángulo desplegable: abrir todas las carpetas de la carpeta seleccionada. Esto solo funciona con la vista de lista.
+Comando-Clic en el título de una ventana: ver las carpetas que contiene la carpeta activa.
+Obtén información acerca de cómo usar Comando o Mayúsculas para seleccionar varios ítems en el Finder. 
+Haz clic en el menú Ir en la barra de menús del Finder para ver las funciones rápidas para abrir las carpetas más usadas, como Aplicaciones, Documentos, Descargas, Utilidades y iCloud Drive.
+
+Funciones rápidas de documentos
+
+El comportamiento de estas funciones rápidas puede variar según la app que estés usando.
+
+Comando-B: poner en negrita el texto seleccionado, o bien activar o desactivar la negrita. 
+Comando-I: poner en cursiva el texto seleccionado, o bien activar o desactivar la cursiva.
+Comando-K: añadir un enlace web.
+Comando-U: subrayar el texto seleccionado, o bien activar o desactivar el subrayado.
+Comando-T: mostrar u ocultar la ventana Tipos de letra.
+Comando-D: seleccionar la carpeta Escritorio desde los cuadros de diálogo Abrir o Guardar.
+Control-Comando-D: mostrar u ocultar la definición de la palabra seleccionada.
+Mayús-Comando-dos puntos (:): mostrar la ventana Ortografía y gramática.
+Comando-Punto y coma (;): buscar palabras mal escritas en el documento.
+Opción-Suprimir: eliminar la palabra situada a la izquierda del punto de inserción.
+Control-H: eliminar el carácter situado a la izquierda del punto de inserción. También se puede utilizar Suprimir.
+Control-D: eliminar el carácter situado a la derecha del punto de inserción. También se puede utilizar Fn-Suprimir.
+Fn-Suprimir: suprimir en los teclados que no tienen la tecla Suprimir. También puedes utilizar Control-D.
+Control-K: eliminar el texto situado entre el punto de inserción y el final de la línea o el párrafo.
+Fn-Flecha arriba: página anterior, es decir, desplazarse una página hacia arriba. 
+Fn-Flecha abajo: página siguiente, es decir, desplazarse una página hacia abajo.
+Fn-Flecha izquierda: inicio, es decir, desplazarse hasta el inicio de un documento.
+Fn-Flecha derecha: final, es decir, desplazarse hasta el final de un documento.
+Comando-Flecha arriba: mover el punto de inserción hasta el inicio del documento.
+Comando-Flecha abajo: mover el punto de inserción hasta el final del documento.
+Comando-Flecha izquierda: mover el punto de inserción hasta el inicio de la línea activa.
+Comando-Flecha derecha: mover el punto de inserción hasta el final de la línea activa.
+Opción-Flecha izquierda: mover el punto de inserción hasta el inicio de la palabra anterior.
+Opción-Flecha derecha: mover el punto de inserción hasta el final de la palabra siguiente.
+Mayús-Comando-Flecha arriba: seleccionar el texto situado entre el punto de inserción y el inicio del documento.
+Mayús-Comando-Flecha abajo: seleccionar el texto situado entre el punto de inserción y el final del documento.
+Mayús-Comando-Flecha izquierda: seleccionar el texto situado entre el punto de inserción y el inicio de la línea activa.
+Mayús-Comando-Flecha derecha: seleccionar el texto situado entre el punto de inserción y el final de la línea activa.
+Mayús-Flecha arriba: ampliar la selección de texto hasta el carácter más próximo situado en la misma ubicación horizontal de la línea de arriba.
+Mayús-Flecha abajo: ampliar la selección de texto hasta el carácter más próximo situado en la misma ubicación horizontal de la línea de abajo.
+Mayús-Flecha izquierda: ampliar la selección de texto un carácter a la izquierda.
+Mayús-Flecha derecha: ampliar la selección de texto un carácter a la derecha.
+Opción-Mayús-Flecha arriba: ampliar la selección al principio del párrafo activo y, si se vuelve a pulsar inmediatamente, al principio del siguiente párrafo.
+Opción-Mayús-Flecha abajo: ampliar la selección hasta el final del párrafo activo y, si se vuelve a pulsar, al final del siguiente párrafo.
+Opción-Mayús-Flecha izquierda: ampliar la selección hasta el principio de la palabra activa y, si se vuelve a pulsar, al principio de la siguiente palabra.
+Opción-Mayús-Flecha derecha: ampliar la selección al final de la palabra activa y, si se vuelve a pulsar inmediatamente, al final de la siguiente palabra.
+Control-A: pasar al inicio de la línea o el párrafo.
+Control-E: pasar al final de la línea o el párrafo.
+Control-F: avanzar un carácter hacia adelante.
+Control-B: retroceder un carácter hacia atrás.
+Control-L: centrar el cursor o la selección en la zona visible.
+Control-P: desplazarse una línea hacia arriba.
+Control-N: desplazarse una línea hacia abajo.
+Control-O: insertar una línea nueva después del punto de inserción.
+Control-T: intercambiar el carácter situado detrás del punto de inserción por el carácter situado delante del punto de inserción.
+Comando-Apertura de llaves curvas ({): alinear a la izquierda.
+Comando-Cierre de llaves curvas ({): alinear a la derecha.
+Mayús-Comando-Barra vertical (|): alinear al centro.
+Opción-Comando-F: ir al campo de búsqueda. 
+Opción-Comando-T: mostrar u ocultar una barra de herramientas de la app.
+Opción-Comando-C: copiar estilo, es decir, copiar los ajustes de formato del ítem seleccionado en el Portapapeles.
+Opción-Comando-V: pegar estilo, es decir, aplicar el estilo copiado en el ítem seleccionado.
+Opción-Mayús-Comando-V: pegar con el mismo estilo, es decir, aplicar en el ítem pegado el estilo del contenido que lo rodea.
+Opción-Comando-I: mostrar u ocultar la ventana del inspector.
+Mayús-Comando-P: ajustar página, es decir, mostrar una ventana para seleccionar los ajustes del documento.
+Mayús-Comando-S: mostrar el cuadro de diálogo Guardar como, o bien duplicar el documento activo.
+Mayús-Comando-Signo menos (-): reducir el tamaño del ítem seleccionado.
+Mayús-Comando-Signo más (+): aumentar el tamaño del ítem seleccionado. Comando-Signo igual (=) realiza la misma función.
+Mayús-Comando-Signo de interrogación (?): abrir el menú Ayuda.
+
+Otras funciones rápidas
+
+Revisa los comandos de funciones rápidas que se muestran en los menús de las apps si necesitas más funciones rápidas. Cada app puede tener sus propias funciones rápidas y las funciones rápidas que sirven en una app podrían no servir para otra. 
+
+Funciones rápidas de accesibilidad
+Funciones rápidas de Safari
+Funciones rápidas de Spotlight
+Funciones rápidas de arranque
+Funciones rápidas de teclado de Apple Music: selecciona Ayuda > Funciones rápidas de teclado en la barra de menús de la app Música.
+Otras funciones rápidas: selecciona el menú Apple > Preferencias del Sistema, haz clic en Teclado y, a continuación, haz clic en Funciones rápidas.
+
+Más información
+
+Usar emojis, acentos y símbolos
+Crear tus propias funciones rápidas y resolver conflictos entre funciones rápidas
+Cambiar el comportamiento de las teclas de función o las teclas de modificación
+Usar un comando de voz para una función rápida de teclado
+
+Fecha de publicación: 22 de enero de 2021
+¿Te ha resultado útil?
+Inicia una conversación en las Comunidades de soporte de Apple
+Preguntar a otros sobre este artículo
+Preguntar a otros sobre este artículo
+Ver todas las preguntas de este artículo
+Apple Footer
+ Apple
+
+Soporte técnico
+Funciones rápidas de teclado del Mac
+
+España
+Copyright © 2021 Apple Inc. Todos los derechos reservados.
+Política de Privacidad Condiciones de uso Ventas y reembolsos Mapa del sitio Uso de las cookies
+
+
+
+
+
+
+
+
+============================================================================
+
+
+
+        Métodos abreviados de teclado de la aplicación Lupa
+
+        Presiona esta tecla
+
+
+        Para hacer esto
+
+        Tecla del logotipo de Windows  + signo más (+)
+
+
+        Activar la Lupa
+
+        Tecla del logotipo de Windows  + Esc
+
+
+        Desactivar la Lupa
+
+        Tecla del logotipo de Windows + signo más (+) o signo menos (-)
+
+
+        Cuando la Lupa está activada, acercar o alejar
+
+        Ctrl + Alt + rueda del mouse
+
+
+        Acercar y alejar con la rueda de desplazamiento del mouse
+
+        Tecla del logotipo de Windows  + Ctrl + M
+
+
+        Abrir la configuración de la Lupa
+
+        Ctrl + Alt + teclas de dirección
+
+
+        Movimiento panorámico en el sentido de las teclas de dirección
+
+        Ctrl + Alt + I
+
+
+        Invertir colores
+
+        Ctrl + Alt + F
+
+
+        Cambiar a la vista de pantalla completa
+
+        Ctrl + Alt + L
+
+
+        Cambiar a la vista de lente
+
+        Ctrl + Alt + D
+
+
+        Cambiar a la vista acoplada
+
+        Ctrl + Alt + M
+
+
+        Cambiar entre las vistas
+
+        Ctrl + Alt + R
+
+
+        Cambiar el tamaño de la lente con el mouse
+
+        Mayús + Alt + teclas de dirección
+
+
+        Cambiar el tamaño de la lente con el teclado
+
+        Ctrl + Alt + barra espaciadora
+
+
+        Ver rápidamente todo el escritorio al usar la vista de pantalla completa
+        Comandos de la Lectura con Lupa
+
+        Presiona esta tecla
+
+
+        Para hacer esto
+
+        Tecla del logotipo de Windows  + signo más (+)
+
+
+        Activar la Lupa
+
+        Inicia, pausa y reanuda la lectura
+
+
+        Teclas modificadoras + Entrar
+
+        Detener la lectura
+
+
+        Cualquier tecla
+
+        Leer desde el puntero del ratón
+
+
+        Tecla modificadora + clic izquierdo del ratón
+
+        Leer frase anterior
+
+
+        Tecla modificadora + H
+
+        Leer frase siguiente
+
+
+        Tecla modificadora + K
+
+        Para más información sobre la Lectura con lupa, consulta Cómo usar la lectura del ampliador
+        Otros métodos abreviados de teclado de accesibilidad
+
+        Presiona esta tecla
+
+
+        Para hacer esto
+
+        Mayús derecha durante ocho segundos
+
+
+        Activar y desactivar las teclas de filtro
+
+        Alt Izq + Mayús Izq + Impr Pant
+
+
+        Activar o desactivar el contraste alto
+
+        Alt Izq + Mayús Izq + Bloq Num
+
+
+        Activar o desactivar las teclas de mouse
+
+        Mayús cinco veces
+
+
+        Activar o desactivar las teclas especiales
+
+        Bloq Num durante cinco segundos
+
+
+        Activar o desactivar las teclas de alternancia
+
+        Tecla del logotipo de Windows  + U
+
+
+        Abrir el Centro de accesibilidad
+
+        Tecla del logotipo de Windows  + Ctrl + C
+
+
+        Activar o desactivar los filtros de color
+
+        Tecla del logotipo de Windows  + Ctrl + N
+
+
+        Abrir la configuración del Narrador
+
+        Tecla del logotipo de Windows  + Ctrl + S
+
+
+        Activar Reconocimiento de voz de Windows
+
+        Tecla del logotipo de Windows  + Ctrl + O
+
+
+        Activar el teclado en pantalla
+
+
+
+============================================================================
+
+            Funciones rápidas de accesibilidad del Mac
+
+            Las funciones rápidas de accesibilidad ayudan a controlar el Mac con un teclado o un dispositivo de ayuda. También puedes pedir a Siri que te ayude con algunas de las funciones de accesibilidad.
+            Controlar las opciones de accesibilidad con tu teclado o con Siri
+
+            Puedes usar estos atajos de teclado para controlar las opciones de accesibilidad, o pedirle a Siri que realice estas funciones. Por ejemplo, pídele a Siri: “Activa VoiceOver”.
+            Acción  Función rápida
+            Mostrar las opciones de accesibilidad   Opción-Comando-F5
+            o presionar tres veces Touch ID (botón de encendido) en modelos compatibles 1
+            Activar o desactivar VoiceOver2     Comando-F5 o Fn-Comando-F5
+            o mantener pulsado Comando y presionar tres veces Touch ID en modelos compatibles1
+            Abrir la Utilidad VoiceOver si VoiceOver está activado2     Control-Opción-F8 o Fn-Control-Opción-F8
+            Activar o desactivar el zoom3   Opción-Comando-8
+            Acercar3    Opción–Comando–Signo más (+)
+            Reducir3    Opción–Comando–Signo menos (-)
+            Invertir colores4   Control-Opción-Comando-8 
+            Reducir contraste   Control-Opción-Comando-Coma (,)
+            Aumentar contraste  Control-Opción-Comando-Punto (.)
+
+            1. MacBook Pro (15 pulgadas, finales de 2016), MacBook Pro (13 pulgadas, finales de 2016, cuatro puertos Thunderbolt 3)
+
+            2. Para utilizar VoiceOver y la Utilidad VoiceOver, es posible que debas activar “Utilizar todas las teclas F1, F2, etc. como teclas de función estándar” en las preferencias del teclado. Es posible que también necesites hacer que VoiceOver ignore la siguiente pulsación de tecla antes de que puedas utilizar alguno de los otros atajos de teclado de Mac.
+
+            3. Para utilizar las funciones rápidas de zoom, puede que tengas que activar “Utilizar funciones rápidas de teclado para cambiar el zoom” en las preferencias de accesibilidad.
+
+            4. Para habilitar este acceso directo, elige el menú de Apple  > Preferencias del Sistema y, a continuación, haz clic en Teclado. En la pestaña Funciones rápidas, selecciona Accesibilidad a la izquierda y, a continuación, selecciona “Invertir colores” a la derecha.
+            Utilizar el teclado como un ratón
+
+            Puedes utilizar el teclado como un ratón para navegar e interactuar con los elementos en pantalla. Utiliza la tecla Tab y las teclas de flecha para navegar, luego presiona la barra espaciadora para seleccionar un elemento.
+
+            Selecciona el menú Apple  > Preferencias del Sistema y, a continuación, haz clic en Teclado.
+            Haz clic en Funciones rápidas.
+            Desde la parte inferior de la ventana de preferencias, selecciona “Utilizar la navegación del teclado para mover el enfoque entre los controles”. En macOS Mojave o anterior, este ajuste aparece en cambio como un botón “Todos los controles”.
+
+
+            Acción  Función rápida
+            Cambiar entre la navegación de todos los controles de la pantalla o solo de las listas y los cuadros de texto   Control-F7 o Fn-Control-F7
+            Pasar al control siguiente  Tabulador
+            Pasar al control anterior   Mayús-Tabulador
+            Pasar al control siguiente cuando se ha seleccionado un campo de texto  Control-Tabulador
+            Mover el enfoque al grupo de controles anterior     Control-Mayús-Tabulador
+            Pasar al ítem adyacente de una lista, un grupo de pestañas o un menú
+            Mover los reguladores y los ajustes (Flecha arriba para aumentar los valores y Flecha abajo para reducir los valores)   Teclas de flecha
+            Pasar al control adyacente al campo de texto    Control-teclas de flecha
+            Seleccionar el ítem del menú elegido    Barra espaciadora
+            Hacer clic en el botón o realizar la acción por omisión     Retorno o Intro
+            Hacer clic en el botón Cancelar o cerrar un menú sin seleccionar un ítem    Esc
+            Mover el enfoque al panel anterior  Control-Mayús-F6
+            Pasar al menú de estado de la barra de menús    Control-F8 o Fn-Control-F8
+            Activar la siguiente ventana abierta de la app en primer plano  Comando–Acento grave (`)
+            Activar la anterior ventana abierta de la app en primer plano   Mayúsculas–Comando–Acento grave (`)
+            Mover el enfoque al cajón de la ventana     Opción–Comando–Acento grave (`)
+
+
+            Navegar a los menús con el teclado
+
+            Para utilizar estos atajos, primero presiona Control-F2 o Fn-Control-F2 para poner el enfoque en la barra de menús.
+            Acción  Función rápida
+            Pasar de un menú a otro     Flecha izquierda, Flecha derecha
+            Abrir el menú seleccionado  Retorno
+            Moverse por los ítems del menú seleccionado     Flecha arriba, flecha abajo
+            Pasar a un ítem del menú seleccionado   Escribir el nombre del ítem del menú
+            Seleccionar el ítem del menú elegido    Retorno
+
+
+            Utilizar las teclas para el ratón para mover el puntero del ratón
+
+            Cuando la función teclas para el ratón está activada, puedes utilizar el teclado o las teclas del teclado numérico para mover el puntero del ratón.
+            Acción  Función rápida
+            Mover hacia arriba  8 u 8 del teclado numérico
+            Mover hacia abajo   K o 2 del teclado numérico
+            Mover hacia la izquierda    U o 4 del teclado numérico
+            Mover hacia la derecha  O o 6 del teclado numérico
+            Mover en diagonal hacia abajo y hacia la izquierda  J o 1 del teclado numérico
+            Mover en diagonal hacia abajo y hacia la derecha    L o 3 del teclado numérico
+            Mover en diagonal hacia arriba y hacia la izquierda     7 o 7 del teclado numérico
+            Mover en diagonal hacia arriba y hacia la derecha   9 o 9 del teclado numérico
+            Pulsar el botón del ratón   I o 5 del teclado numérico
+            Mantener pulsado del botón del ratón    M o 0 del teclado numérico
+            Dejar de pulsar el botón del ratón  . (punto)
+
+
+
