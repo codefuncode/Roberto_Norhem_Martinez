@@ -1,0 +1,300 @@
+
+
+
+
+
+
+
+Métodos abreviados de teclado de Windows
+
+Nombre completo 
+Número de estudiante
+Concentración  
+Nombre de la Universidad   
+Nombre del profesor 
+Materia     
+Tabla de contenido
+Introducción 
+Pág. 3
+Discusión 
+Pág. 4
+Tablas de comparación 
+Pág. 8
+
+
+
+
+
+
+
+
+
+
+
+
+Introducción.
+Los accesos directos lo cual muchas veces son llamados atajos de teclado, son de utilidad para realizar tareas comunes. Estos son  una forma rápida de realizar acciones específicas sin tener que pasar por el proceso de búsqueda dentro de una interfaz gráfica. Los accesos directos  y accesos rápidos son similares. En cuestión, estos son métodos que agilizan el acceso u otro procedimiento función o acción que puede realizar una computadora. Estas combinaciones se activan al presionar uno o varios botones del teclado.
+
+
+Discusión. 
+Los atajos de teclado  son muy utilizados en la actualidad. Sin embargo existe también una gran cantidad de personas que no los conocen o al menos no logran memorizar muchos de ellos. Al final de este documento se muestra una lista completa de todos los atajos de teclado disponibles para el sistema operativo Windows y adicionalmente referencias para otros sistemas operativos, como lo son Mac y Linux. No centraremos en Windows  pues es él más utilizado en la actualidad.
+
+Podemos clasificar los atajos de teclado  como: 
+    • Atajos de teclado básicos.
+    • Atajos de teclado en navegadores de Internet.
+    • Atajos de teclado de nivel medio.
+    • Atajos de teclado para organizar ventanas.
+    • Atajos de teclado si tienes más de un monitor.
+
+Los atajos básicos pueden ser:
+    • Ctrl + C: copiar, se copiará el texto seleccionado, la carpeta o la imagen o imágenes que tengamos seleccionadas en ese momento.
+    • Ctrl + X: cortar, se cortará el texto seleccionado, la carpeta o la imagen o imágenes que tengamos seleccionadas en ese momento.
+    • Ctrl + V: pegar, se pegará cualquier cosa que hayamos copiado o cortado anteriormente.
+    • Ctrl + Z: deshacer, deshace la última acción realizada.
+    • Ctrl + Y: rehacer, rehace la última acción realizada.
+    • Ctrl + P: imprimir, se abre el diálogo de impresión de la imagen, archivo o página web que tengamos abierta o seleccionada
+
+
+Los atajos de teclado de nivel medio pueden ser:
+    • Win + (1 al 0): Abrir la aplicación correspondiente que tengamos anclada en la barra de tareas.
+    • Ctrl + G: guardar para programas en español.
+    • Ctrl + S: guardar para programas en inglés (algunos programas con idioma castellano, pero de origen anglosajón también utilizan este atajo).
+    • Ctrl + A: (1) abrir, para abrir un archivo en programas en español, o (2) seleccionar todo para programas en inglés.
+    • Ctrl + O: abrir, para abrir un archivo en programas en inglés.
+    • Ctrl + B: buscar, en programas en español.
+    • Ctrl + F: buscar, en programas en inglés o de origen inglés.
+
+Los atajos de teclado para organizar ventanas pueden ser:
+    • Win + D: minimizar todo, minimiza todas las ventanas y deja el foco en el escritorio.
+    • Win + Arriba: maximizar, maximiza la ventana activa.
+    • Win + Abajo: restaurar / Minimizar, si la ventana está maximizada la restaura, y si esta sin maximizar la minimiza.
+    • Win + Derecha: anclar, ancla la ventana a la derecha del escritorio ocupando la mitad del mismo.
+    • Win + Izquierda: anclar, ancla la ventana a la izquierda del escritorio ocupando la mitad del mismo.
+    • Win + L: bloquear el usuario, cierra la sesión del usuario, solicitando la contraseña si está definida.
+    • Win + inicio: minimiza o restaura la ventana activa.
+
+Los Atajos de teclado si tienes más de un monitor pueden ser:
+    • Win + Shift + Izquierda: mueve la ventana activa al siguiente monitor.
+    • Win + Shift + Derecha: mueve la ventana activa al anterior monitor.
+
+
+Estas acciones pueden realizarse habitualmente de otro modo. Navegando por los menús, tecleando una instrucción más extensa, o utilizando el ratón. Por lo que los atajos de teclado nos ayuda a reducir estos pasos a combinaciones de teclas lo que se traduce en ahorro ahorrar tiempo y la optimización de la experiencia de usuario. Los accesos rápidos normalmente agilizan operaciones comunes, reduciendo varias secuencias de entrada a unas pocas pulsaciones de teclas.
+También tenemos  los Accesos directos de teclado de Windows para accesibilidad. Lo que permite a personas con cierta discapacidad  física el acceder al sistema. Aquí deberíamos tocaremos el  tema de interfaz y los componentes de audio, como métodos de acceso a la información, pero solo es un ejemplo de como las  combinaciones de letras  puede proveer acceso a personas  con discapacidad auditiva activar un lector de pantalla. Puede que  estos atajos de teclados sean los más comunes. También están los atajos para el  contraste  lo cual son muy utilizados  por las  personas con discapacidad visual. Por lo que se realiza una comparación de comandos útiles para personas con discapacidades.
+
+En las siguientes tablas se plantean los comandos para trabajar la lupa, lector, de pantalla y reconocimiento de voz. La comparación se realiza con comandos de Windows y Mac OS los sistemas operativos más usados en universidades y de uso doméstico de forma habitual.
+
+
+
+
+Comparación de comandos para el uso de la lupa y de lector de pantalla 
+
+Windows 10
+Comando 
+Función  
+Tecla del logotipo de Windows  + signo más (+)
+ Activar la Lupa
+Tecla del logotipo de Windows  + Esc    
+Desactivar la Lupa
+Teclas modificadoras + Entrar
+Inicia, pausa y reanuda la lectura
+Cualquier tecla
+Detener la lectura
+Tecla modificadora + clic izquierdo del ratón
+Leer desde el puntero del ratón
+Tecla modificadora + H
+Leer frase anterior
+Tecla modificadora + K
+Leer frase siguiente
+Tecla del logotipo de Windows + Ctrl + N
+Abrir la configuración del Narrador
+Tecla del logotipo de Windows  + Ctrl + S
+Activar Reconocimiento de voz de Windows
+
+
+Mac OS
+Comando 
+Función  
+Opción-Comando-8
+Activar o desactivar el zoom
+Opción–Comando–Signo más (+)
+Acercar
+Opción–Comando–Signo menos (-)
+Reducir
+
+
+
+
+Comparación de comandos para el control de contraste 
+
+
+Windows 10
+Comando 
+Función  
+Mayús derecha durante ocho segundos
+Activar y desactivar las teclas de filtro
+Mayús derecha durante ocho segundos
+Activar y desactivar las teclas de filtro
+Alt Izq + Mayús Izq + Impr Pant
+Activar o desactivar el contraste alto
+Tecla del logotipo de Windows + Ctrl + C
+Activar o desactivar los filtros de color
+
+
+Mac OS
+Comando 
+Función  
+Control-Opción-Comando-Coma (,) 
+Reducir contraste 
+Control-Opción-Comando-Punto (.)
+Aumentar contraste 
+
+Referencias
+
+Microsoft. (s. f.-a). Apéndice B: Comandos de teclado y gestos táctiles del Narrador. Recuperado 28 de julio de 2021, de https://support.microsoft.com/es-es/windows/ap%C3%A9ndice-b-comandos-de-teclado-y-gestos-t%C3%A1ctiles-del-narrador-8bdab3f4-b3e9-4554-7f28-8b15bd37410a#ID0EBD=Windows_10
+Microsoft. (s. f.-b). ¿Cómo puedo reasignar teclas de acceso rápido de mi teclado? Recuperado 28 de julio de 2021, de https://support.microsoft.com/es-es/topic/-c%C3%B3mo-puedo-reasignar-teclas-de-acceso-r%C3%A1pido-de-mi-teclado-703f897c-ad72-db5d-8e64-0928873d712f
+Microsoft. (s. f.-c). Métodos abreviados de teclado de Windows. Recuperado 28 de julio de 2021, de https://support.microsoft.com/es-es/windows/m%C3%A9todos-abreviados-de-teclado-de-windows-dcc61a57-8ff0-cffe-9796-cb9706c75eec
+Cómo escribir un ensayo con el formato APA. (s. f.). wikiHow. Recuperado 28 de julio de 2021, de https://es.wikihow.com/escribir-un-ensayo-con-el-formato-APA
+Funciones rápidas de accesibilidad del Mac. (2021, 24 mayo). Apple Support. https://support.apple.com/es-es/HT204434
+
+
+
+Atajos de teclado útiles
+
+Esta página le proporciona una vista general de los atajos de telcado que puede usar en su escritorio y aplicaciones de una forma eficiente. Si no puede usar un ratón o un dispositivo apuntador, consulte la sección Navegación con el teclado para obtener más información acerca de navegar por los interfaces sólo con el teclado.
+Primeros pasos en el escritorio
+
+Alt+F1 or the
+
+Tecla Súper
+	
+
+Cambia entre la vista general de Actividades y el escritorio. En la vista general, comience a escribir para buscar instantáneamente sus aplicaciones, contactos y documentos.
+
+Alt+F2
+	
+
+Ventana de comandos emergente (para ejecutar comandos rápidamente).
+
+Use las teclas de flechas para acceder rápidamente a comandos ejecutados anteriormente
+
+Super+Tab
+	
+
+Cambio rápido entre ventanas. Mantenga pulsada Mayús invertir el orden.
+
+Super+`
+	
+
+Cambia entre ventanas de la misma aplicación, o desde la aplicación seleccionada después de Super+Tab.
+
+Este atajo de teclado usa ` en teclados estadounidenses, donde la tecla ` está encima de la tecla Tab. En cualquier otro teclado, el atajo se usa con la tecla Super y cualquiera que sea la tecla encima de la tecla Tab.
+
+Alt+Esc
+	
+
+Cambio entre ventanas en el área de trabajo actual. Mantenga pulsada Mayús invertir el orden.
+
+Ctrl+Alt+Tab
+	
+
+Dar el foco del teclado a la barra superior. En la vista de Actividades, cambia el foco del teclado entre la barra superior, el tablero, la vista previa de ventanas, la lista de aplicaciones y el campo de búsqueda. Use las teclas de flechas para navegar.
+
+Super+A
+	
+
+Mostrar la lista de aplicaciones.
+
+Super+Re Pag
+
+y
+
+Super+Av Pag
+	
+
+Cambiar entre áreas de trabajo.
+
+Mayús+Súper+Av Pág
+
+y
+
+Mayús+Super+Av Pag
+	
+
+Mover la ventana actual a un área de trabajo diferente.
+
+Mayús+Súper+←
+	
+
+Mover la ventana una pantalla a la izquierda.
+
+Mayús+Súper+→
+	
+
+Mover la ventana una pantalla a la derecha.
+
+Ctrl+Alt+Supr
+	
+
+Show the Power Off dialog.
+
+Super+L
+	
+
+Bloquear la pantalla.
+
+Super+V
+	
+
+Mostrar la lista de notificaciones. Pulse Súper+V otra vez o Esc para cerrar.
+Combinaciones de teclas de edición más comunes
+
+Ctrl+A
+	
+
+Seleccionar todo el texto o todos los elementos en una lista.
+
+Ctrl+X
+	
+
+Cortar (quitar) el texto o los elementos seleccionados y colocarlo en el escritorio.
+
+Ctrl+C
+	
+
+Copiar el texto o los elementos seleccionados al portapapeles.
+
+Ctrl+V
+	
+
+Pegar los contenidos del portapapeles.
+
+Ctrl+Z
+	
+
+Deshacer la última acción.
+Capturar la pantalla
+
+Impr Pant
+	
+
+Tomar una captura de pantalla.
+
+Alt+Impr Pant
+	
+
+Tomar una captura de pantalla de una ventana.
+
+Mayús+Impr Pant
+	
+
+Tomar una captura de pantalla de un área de la pantalla. El puntero se convierte en una cruz. Pulse y arrastre para seleccionar un área.
+
+Ctrl+Alt+Mayús+R
+	
+
+Iniciar y finalizar una grabación de vídeo de la pantalla.. 
+
+
+
+
+

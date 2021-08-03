@@ -1,0 +1,954 @@
+Identificar y comparar formatos digitales comunes utilizados en el área de especialización.
+Preparar una presentación.
+
+
+
+
+archivos de texto
+.docx 	Microsoft Open Word XML Document
+.doc 	Microsoft Word Document
+.txt 	Plain Text File
+.rtf 	Revit Family Template File
+.odt 	OpenOffice/StarOffice File
+archivos de audio
+.mp3 	MP3 Audio File
+.wav 	Wave Audio File
+.aac 	MPEG-2 Advanced Audio Coding File
+.wma 	Windows Media Audio File
+.m4a 	MPEG-4 Audio File
+archivos de vídeo
+.avi 	Audio Video Interleave File
+.mp4 	MPEG-4 Video File
+.mov 	Video Clip
+.flv 	Video File
+.mpg 	MPEG 1 System Stream
+archivos de datos
+.pdf 	Portable Document Format File
+.xls 	Excel Spreadsheet File
+.csv 	Comma Separated Values File
+.ini 	Initialization/Configuration File
+.html 	Hypertext Markup Language File
+archivos de compresión
+.zip 	ZIP File
+.rar 	WinRAR Compressed Archive
+.7z 	Compressed File
+.tar 	Consolidated Unix File Archive
+.gz 	GNU Zipped Archive File
+archivos ejecutables
+.exe 	Windows Executable File
+.msi 	Windows Installer File
+.bin 	Binary Disc Image
+.app 	Punch Post
+.dmg 	Disk Copy Disk Image File
+
+
+
+Saltar al contenido principal
+Información del archivo
+Búsqueda Avanzada
+Aleatorio
+
+    Tipos de archivo
+    Software
+    Centro de ayuda
+
+Tipos de archivos comunes
+
+Extensiones de archivo comunes que es bueno conocer, organizadas por formato de archivo.
+Archivos de texto
+Extensión
+
+Tipo de archivo
+.DOC
+
+Microsoft Word Document (heredado)
+.DOCX
+
+ Documento de Microsoft Word
+.INICIAR SESIÓN
+
+Archivo de registro
+.MSG
+Archivo de elemento de mensaje de 
+Outlook
+.ODT
+
+OpenDocument Documento de texto
+.PÁGINAS
+
+Apple Pages Documento
+.RTF
+
+ Archivo de formato de texto rico
+.TEXAS
+Documento fuente de 
+LaTeX
+.TXT
+
+ Archivo de texto sin formato
+.WPD
+
+WordPerfect Documento
+.WPS
+Documento de procesador de textos de 
+Microsoft Works
+Ver todos los tipos de archivos de texto
+Archivos de información
+Extensión
+
+Tipo de archivo
+.CSV
+
+ Archivo de valores separados por comas
+.DAT
+
+Archivo de datos
+.GED
+Archivo de datos genealógicos 
+GEDCOM
+.CLAVE
+Presentación principal de 
+Apple
+.LLAVERO
+Archivo de llavero de 
+Mac OS X
+.PPT
+
+Microsoft Presentación de PowerPoint (heredado)
+.PPTX
+
+Microsoft Presentación de PowerPoint
+.SDF
+
+ Archivo de datos estándar
+.ALQUITRÁN
+
+Archivo de archivos Unix consolidado
+.TAX2016
+
+TurboTax 2016 Declaración de impuestos
+.TAX2020
+
+TurboTax 2020 Declaración de impuestos
+.VCF
+Archivo 
+vCard
+.XML
+
+ Archivo XML
+Ver todos los tipos de archivos de datos
+Archivos de sonido
+Extensión
+
+Tipo de archivo
+.AIF
+
+ Formato de archivo de intercambio de audio
+.IFF
+
+Intercambio de formato de archivo
+.M3U
+
+Archivo de lista de reproducción de medios
+.M4A
+
+ Archivo de audio MPEG-4
+.MEDIO
+Archivo 
+MIDI
+.MP3
+
+ Archivo de audio MP3
+.MPA
+
+ Archivo de audio MPEG-2
+.WAV
+
+ WAVE Archivo de audio
+.WMA
+
+Archivo de audio de Windows Media
+Ver todos los tipos de archivos de audio
+Archivos de video
+Extensión
+
+Tipo de archivo
+.3G2
+
+ Archivo multimedia 3GPP2
+.3GP
+
+ Archivo multimedia 3GPP
+.ASF
+
+Advanced Systems Formato de archivo
+.AVI
+
+Audio Video Intercalar Archivo
+.FLV
+
+Flash Video File
+.M4V
+
+iTunes Archivo de vídeo
+.MOV
+
+Apple QuickTime Movie
+.MP4
+
+ Archivo de video MPEG-4
+.MPG
+Archivo de vídeo 
+MPEG
+.RM
+
+RealMedia File
+.SRT
+
+SubRip Archivo de subtítulos
+.SWF
+
+Shockwave Flash Movie
+.VOB
+Archivo de objeto de vídeo 
+DVD
+.WMV
+
+Windows Media Video
+Ver todos los tipos de archivos de video
+Archivos de imagen 3D
+Extensión
+
+Tipo de archivo
+.3DM
+
+Rhino Modelo 3D
+.3DS
+
+ Escena de estudio 3D
+.MAX
+
+ Archivo de escena 3ds Max
+.OBJ
+
+Archivo de objeto 3D de Wavefront
+Ver todos los tipos de archivos de imágenes en 3D
+Archivos de imagen de trama
+Extensión
+
+Tipo de archivo
+.BMP
+
+Imagen de mapa de bits
+.DDS
+
+DirectDraw Imagen de superficie
+.GIF
+
+ Archivo de formato de intercambio gráfico
+.HEIC
+
+ Formato de imagen de alta eficiencia
+.JPG
+
+JPEG Imagen
+.PNG
+
+ Gráfico de red portátil
+.PSD
+
+ Documento de Adobe Photoshop
+.PSPIMAGE
+
+PaintShop Pro Imagen
+.TGA
+
+Targa Gráfico
+.THM
+
+ Archivo de imagen en miniatura
+.TIF
+
+ Archivo de imagen etiquetado
+.PELEA
+
+ Formato de archivo de imagen etiquetado
+.YUV
+
+YUV Archivo de imagen codificado
+Ver todos los tipos de archivos de imágenes rasterizadas
+Archivos de imagen vectorial
+Extensión
+
+Tipo de archivo
+.AI
+
+Adobe Illustrator Archivo
+.EPS
+
+ Archivo PostScript encapsulado
+.SVG
+
+Archivo de gráficos vectoriales escalables
+Ver todos los tipos de archivos de imágenes vectoriales
+Archivos de diseño de página
+Extensión
+
+Tipo de archivo
+.INDD
+
+ Documento de Adobe InDesign
+.PCT
+
+ Archivo de imagen
+.PDF
+
+Archivo de formato de documento portátil
+Ver todos los tipos de archivos de diseño de página
+Archivos de hoja de cálculo
+Extensión
+
+Tipo de archivo
+.XLR
+
+Works Hoja de cálculo
+.XLS
+
+Microsoft Excel Spreadsheet (heredado)
+.XLSX
+
+Microsoft Excel Spreadsheet
+Ver todos los tipos de archivos de hojas de cálculo
+Archivos de base de datos
+Extensión
+
+Tipo de archivo
+.ACCDB
+Archivo de base de datos de 
+Access 2007
+.DB
+
+ Archivo de base de datos
+.DBF
+
+ Archivo de base de datos
+.MDB
+
+Microsoft Access Database
+.PDB
+
+Programa de base de datos
+.SQL
+
+ Archivo de datos de lenguaje de consulta estructurado
+Ver todos los tipos de archivos de base de datos
+Archivos ejecutables
+Extensión
+
+Tipo de archivo
+.APK
+
+Android Package File
+.APP
+Aplicación 
+macOS
+.MURCIÉLAGO
+
+DOS Archivo por lotes
+.CGI
+Script de interfaz de puerta de enlace 
+Common
+.COM
+Archivo de comando 
+DOS
+.EXE
+
+Archivo ejecutable de Windows
+.ARTILUGIO
+
+Gadget de Windows
+.FRASCO
+
+Java Archive File
+.WSF
+
+Archivo de secuencia de comandos de Windows
+Ver todos los tipos de archivos ejecutables
+Archivos de juego
+Extensión
+
+Tipo de archivo
+.B
+
+Grand Theft Auto 3 Archivo de juego guardado
+.DEM
+
+ Archivo de demostración de videojuego
+.GAM
+
+Archivo de juego guardado
+.NES
+
+Nintendo (NES) Archivo ROM
+.ROM
+Archivo ROM del juego 
+ N64
+.SAV
+
+Juego guardado
+Ver todos los tipos de archivos de juegos
+Archivos CAD
+Extensión
+
+Tipo de archivo
+.DWG
+
+AutoCAD Archivo de dibujo
+.DXF
+
+Drawing Exchange formato de archivo
+Ver todos los tipos de archivos cad
+Archivos GIS
+Extensión
+
+Tipo de archivo
+.GPX
+Archivo de intercambio 
+GPS
+.KML
+
+ Archivo de lenguaje de marcado de Keyhole
+.KMZ
+
+Archivo de marca de posición de Google Earth
+Ver todos los tipos de archivos gis
+Archivos web
+Extensión
+
+Tipo de archivo
+.ÁSPID
+
+Página del servidor activo
+.ASPX
+
+Active Server Page Extended File
+.CER
+
+Certificado de seguridad de Internet
+.CFM
+Archivo de marcado 
+ColdFusion
+.CRDOWNLOAD
+
+Chrome Archivo parcialmente descargado
+.CSR
+
+ Archivo de solicitud de firma de certificado
+.CSS
+
+Hoja estilo cascada
+.DCR
+
+Shockwave Media File
+.HTM
+
+ Archivo de lenguaje de marcado de hipertexto
+.HTML
+
+ Archivo de lenguaje de marcado de hipertexto
+.JS
+
+Archivo JavaScript
+.JSP
+Página del servidor 
+Java
+.PHP
+Archivo de código fuente 
+PHP
+.RSS
+Resumen del sitio 
+Rich
+.XHTML
+
+ Archivo de lenguaje de marcado de hipertexto extensible
+Ver todos los tipos de archivos web
+Archivos de complementos
+Extensión
+
+Tipo de archivo
+.CRX
+Extensión 
+Chrome
+.ENCHUFAR
+Complemento de 
+Mac OS X
+Ver todos los tipos de archivos de complementos
+Archivos de fuentes
+Extensión
+
+Tipo de archivo
+.FNT
+
+Archivo de fuentes de Windows
+.FON
+
+ Biblioteca de fuentes de Windows
+.OTF
+Fuente 
+OpenType
+.TTF
+
+TrueType Fuente
+Ver todos los tipos de archivos de fuentes
+Archivos de sistema
+Extensión
+
+Tipo de archivo
+.TAXI
+
+Archivo de gabinete de Windows
+.CPL
+Elemento del panel de control de 
+Windows
+.CANALLA
+
+ Windows Cursor
+.DESKTHEMEPACK
+Archivo de paquete de temas de escritorio de 
+Windows 8
+.DLL
+
+ Biblioteca de enlaces dinámicos
+.DMP
+
+Volcado de memoria de Windows
+.DRV
+
+Controlador de dispositivo
+.ICNS
+Archivo de recursos de icono 
+macOS
+.ICO
+
+Icon Archivo
+.LNK
+
+ Acceso directo de Windows
+.SYS
+
+Windows Sy
+
+
+Estándares informáticos‎ (11 cat, 26 págs.)
+Normas ANSI‎ (5 págs.)
+Estándares DMTF‎ (4 págs.)
+Normas Ecma‎ (12 págs.)
+Estándares de aseguramiento de la información‎ (6 págs.)
+Estándares de hardware‎ (8 cat, 17 págs.)
+Estándares de gestión digital de derechos‎ (8 págs.)
+Estándares gráficos‎ (9 págs.)
+Normas IEEE‎ (4 cat, 45 págs.)
+Estándares de redes informáticas‎ (2 cat, 23 págs.)
+Estándares de seguridad informática‎ (1 cat, 11 págs.)
+Estándares basados en XML‎ (23 págs.)
+
+
+
+
+Tipos de archivos por extensión
+
+A continuación, vamos a ver cuáles son los tipos de extensiones más comunes que nos podemos encontrar.
+Extensiones de documentos
+
+La ofimática es una de las tareas más habituales de cualquier sistema informático. A diario trabajamos con Office, u otros programas similares, para crear documentos, hojas de cálculo, presentaciones de diapositivas y más. Además, también es muy frecuente trabajar con archivos de texto plano, sin formato.
+
+    TXT: archivos de texto plano, sin formato.
+    DOC: documentos de Word. Este formato está obsoleto, ya que pertenece a las versiones antiguas de Office.
+    DOCX: formato por defecto de los documentos de Word. Este formato no permite ejecutar macros.
+    DOCM: igual que el DOCX, pero con macros habilitadas.
+    ODT: documento de texto en formato OpenDocument, ideal para usar con suites alternativas como LibreOffice.
+    PDF: formato de Adobe Acrobat. Protege el estilo y evita modificaciones.
+    RTF: formato de texto enriquecido, perfecto para compartir entre distintos sistemas operativos.
+    CSV: formato abierto para representar cualquier tipo de datos en forma de tabla.
+    XLS: documentos de Excel. Este formato está obsoleto, ya que pertenece a las versiones antiguas de Office.
+    XLSX: formato por defecto de los documentos de Excel. Este formato no permite ejecutar macros.
+    XLSM: igual que XLSX, pero con macros habilitadas.
+    ODS: hoja de cálculo en formato OpenDocument, ideal para usar con suites ofimáticas alternativas como LibreOffice.
+    PPS: presentación de diapositivas de PowerPoint configurada para abrirse siempre en modo presentación. Este formato está obsoleto, ya que pertenece a las versiones antiguas de Office.
+    PPT: presentación de diapositivas de PowerPoint. Este formato está obsoleto, ya que pertenece a las versiones antiguas de Office.
+    PPSX: formato por defecto de PowerPoint para abrir el archivo en modo presentación. Este formato no permite ejecutar macros.
+    PPTX: formato por defecto de PowerPoint. Este formato no permite ejecutar macros.
+    PPSM: igual que el PPSX, pero con macros.
+    PPTM: igual que el PPTX, pero con macros.
+    POTX: plantilla de Microsoft PowerPoint.
+    ODP: formato OpenDocument para presentación de diapositivas, ideal para usar con suites ofimáticas alternativas como LibreOffice.
+
+Si estamos intentando abrir documentos, lo más común es usar procesadores de texto, como Word o LibreOffice Writer. En el caso de hojas de cálculo, lo más común es usar Excel o Calc. Y en el caso de presentaciones de diapositivas tenemos programas como PowerPoint y Impress.
+
+Para los archivos de texto sin formato, el mismo Bloc de Notas de Windows, u otros editores como Visual Studio Code, nos permitirán abrirlos sin problemas.
+Extensiones de audio
+
+Si nos gusta escuchar música en nuestro ordenador, o crear nuestra propia música, debemos conocer los principales formatos de audio que nos encontraremos en nuestro día a día:
+
+    MP3: codec de música estándar con compresión.
+    WMA: formato de audio desarrollado por Microsoft con compresión y posible DRM.
+    WAV: formato de audio digital con o sin compresión.
+    FLAC: formato de audio digital de alta fidelidad y sin pérdidas.
+    MIDI: protocolo para transferencia de datos, con información de sonido, de 8 bits.
+    OGG: codec de audio libre, muy popular como alternativa al MP3.
+    M3U: lista de reproducción.
+
+Para reproducir estos archivos necesitamos un reproductor de música. AIMP, por ejemplo, es una de las mejores opciones que podemos encontrar hoy en día.
+Extensiones de vídeo
+
+Del mismo modo que ocurre con el audio, los clips de vídeo también tienen sus propios formatos por defecto. Dependiendo del codec que se utilice, y otros muchos factores, podemos encontrar extensiones de archivos de vídeo comunes como:
+
+    AVI: contenedor de audio y vídeo que puede contener varios flujos de datos de audio y de vídeo.
+    DIVX: formato utilizado para almacenar archivos de vídeo de alta definición y calidad.
+    MOV: formato utilizado por QuickTime.
+    MP4: formato capaz de almacenar contenido multimedia como audio, vídeo y subtítulos.
+    MPG: formato con compresión de baja pérdida de calidad.
+    MKV: formato contenedor de vídeo que guarda por separado el audio y el vídeo.
+    WMV: formato de vídeo desarrollado por Microsoft con compresión y posible DRM.
+    WPL: lista de reproducción de Windows Media Player.
+
+Para abrir estos archivos necesitaremos un reproductor de vídeo. VLC, por ejemplo, es uno de los mejores reproductores de vídeo que podemos encontrar para este fin.
+Extensiones de fotos
+
+Igual que el audio y el vídeo, las fotos también deben tener su propio formato multimedia. Dependiendo del tipo de foto, la calidad y la compresión podemos encontrarnos con estas extensiones de archivos comunes:
+
+    JPEG / JPG: formato más utilizado en imágenes digitales, con compresión y pérdida.
+    PNG: formato gráfico con compresión sin pérdida. Soporta transparencias.
+    BMP: imagen de mapa de bits.
+    ICO: archivo de icono.
+    SVG: imagen de gráficos vectoriales.
+    WEBP: formato de imagen con compresión desarrollado por Google para web.
+    GIF: imágenes animadas.
+    PSD: proyecto de Adobe Photoshop.
+    HEIC: formato de imagen utilizado por Apple en macOS y iOS.
+    NEF/CRW: formato de imagen RAW, en bruto, utilizado por cámaras Nikon y Canon.
+    AI: proyecto de Adobe Ilustrator.
+    ID: proyecto de InDesign de Adobe.
+
+Según el tipo de foto que sea podremos abrirlas con unos programas u otros. Por ejemplo, si se trata de un proyecto de Photoshop necesitaremos el software de Adobe, si estamos abriendo una imagen RAW lo haremos con un software como Camera RAW, o si son fotos normales con el propio visor de fotos de Windows.
+Extensiones de Windows
+
+Windows, por supuesto, tiene sus propios tipos de archivos. Estos normalmente son reconocidos y utilizados por el propio sistema operativo, por lo que no tenemos que preocuparnos de ellos. Los más comunes con los que podemos encontrarnos a diario son:
+
+    EXE: ejecutable de Windows.
+    LNK: acceso directo.
+    BAT: script para CMD.
+    COM: aplicación de MS-DOS.
+    PS1: script de PowerShell.
+    DLL: librerías con código necesario para que los programas funcionen.
+    MSI: instalador.
+    SYS: ficheros críticos del sistema. No se recomienda tocarlos ni borrarlos.
+    TTF: fuente tipográfica TrueType.
+    OTF: fuente tipográfica OpenType.
+    INI: archivo de configuración.
+    SCR: protector de pantalla.
+    INF: información sobre instalación.
+    BIN: archivo binario.
+    ANI: cursor de Windows animado.
+    BFC: maletín.
+    BKF: copia de seguridad de Windows.
+    CER: certificado digital.
+    THEME: tema para Windows 10.
+    TMP: archivo temporal.
+    CLASS: archivo de código de Java.
+    C: archivo de código de C.
+    CPP: archivo de código de C++.
+    JAVA: archivo de código de Java.
+    VBS: código Visual Basic.
+
+Estos archivos suelen venir asociados al propio sistema, por lo que no necesitaremos software adicional para abrirlos.
+Extensiones de archivos comprimidos
+
+Comprimir archivos es muy útil ya que nos permite agrupar una gran cantidad de ficheros en un mismo paquete, reducir su tamaño, y permitirnos compartirlos fácilmente con otras personas a través de Internet. Los formatos más utilizados para archivos comprimidos son:
+
+    ZIP: formato desarrollado por WinZIP.
+    RAR: formato de compresión desarrollado por WinRAR más eficiente que el ZIP.
+    RAR5: versión renovada de RAR con mejoras de seguridad y recuperación de datos.
+    7Z: formato libre desarrollado por el creador de 7-Zip.
+    ACE: archivo comprimido con WinACE.
+    R00, R01, etc: archivo WinRAR dividido en partes.
+    GZ: archivo comprimido en GZIP, muy frecuente en Linux.
+    tar.bz2: otro formato de archivo comprimido de Linux.
+
+WinRAR, PeaZip, 7-Zip o Bandizip son excelentes programas para abrir todo tipo de formatos comprimidos.
+Extensiones de imágenes de CD o DVD
+
+Una imagen de un disco es una copia de todo su contenido y empaquetado dentro de un contenedor. Las extensiones más comunes para los archivos de imagen de disco son:
+
+    ISO: formato de imagen por excelencia.
+    CUE: los datos del disco (como pistas de audio, títulos, duración, etc) se guardan como archivos de texto, sin formato, en ASCII. Contiene las instrucciones para poder leer el BIN que le acompaña.
+    IMG: muy utilizado, por ejemplo, para crear copias literales de tarjetas de memoria u otras unidades.
+
+Grabadores de discos, como Nero, o programas de montaje de imágenes, como Daemon Tools, nos permitirán trabajar con estos tipos de archivo. Además, también podemos recurrir a los compresores anteriores, que nos permitirán acceder a todos los datos dentro de estas imágenes de discos.
+Extensiones de Internet
+
+Internet también tiene sus propias extensiones de archivos utilizadas, principalmente, por páginas web y servicios de correo electrónico. Las extensiones más comunes son:
+
+    HTML: archivo de texto con código para una página web.
+    XML: archivo de lenguaje de marcado.
+    URL: documento HTML.
+    CSS: extensión de estilo que acompaña al HTML.
+    JS: script JavaScript.
+    PHP: código PHP.
+    EML/MSG: formato de correo electrónico.
+    SWF/SPL: archivo Flash Player.
+
+Para abrir estas extensiones de archivos comunes necesitaremos un navegador web, como Google Chrome, Edge o Firefox.
+
+Podemos conocer más información sobre los tipos y las extensiones de archivos más comunes en el siguiente enlace de Microsoft.
+Extensiones de juegos retro
+
+Los juegos retro cada vez están más de moda. Las roms que podemos bajar de Internet normalmente tendrán una extensión acorde a la consola a la que correspondan. Esto nos ayudará a identificarlas y abrirlas con su emulador correspondiente. Si las configuramos para abrirlas por defecto con sus respectivos emuladores las tendremos listas para jugar con solo hacer doble clic.
+
+    Genéricos:
+        BIN: normalmente suele corresponder a juegos arcade. Sin embargo, puede ser cualquier volcado de cartucho.
+        ROM: como su nombre indica, corresponde a una rom de un juego. Pero no se especifica a qué consola.
+        CUE: imágenes volcadas de un disco. Común en la PlayStation 1.
+        ISO: imagen de disco de cualquier consola de CD.
+    Atari
+        ART: juegos de la Atari 800.
+        A26: juegos de la Atari 2600
+        A52: juegos de la Atari 5200.
+        A78: juegos de la Atari 7800.
+        J64: juegos de la Atari Jaguar.
+        LNX: juegos de la Atari Lynx.
+    Coleco
+        COL: juegos de la Coleco.
+    Vectrex
+        VEC: juegos de la GCE Vectrex.
+    PC Engine
+        NEC: juegos de la TurboGrafx-16.
+    Nintendo
+        Z64: juegos de la Nintendo 64.
+        NDS: juegos de la Nintendo DS.
+        NES: juegos de la Nintendo Entertainment System.
+        SNES: juegos de la Super Nintendo Entertainment System.
+        GB: juegos de la Game Boy.
+        GBC: juegos de la Game Boy Color.
+        GBA: juegos de la Game Boy Advance.
+    Sega:
+        GG: juegos de la Game gear.
+        MD: juegos de la Mega Drive, o Sega Genesis.
+        SMS: juegos de la Sega Master System.
+    Sinclair ZX Spectrum
+        IPF: juegos de la Spectrum.
+    NeoGeo Pocket
+        NGP: juegos de la NeoGeo Pocket
+        NGC: juegos de la NeoGeo Color.
+
+
+        Microsoft Word
+
+Microsoft Word es un programa completo de procesamiento de texto para los sistemas operativos Windows y Mac. Vea más en Word con Microsoft 365.
+Microsoft Excel
+
+Microsoft Excel es un programa de hojas de cálculo que permite realizar cálculos, contiene herramientas de gráficos, tablas dinámicas y soporte para lenguajes de programación de macros, compatibles con los sistemas operativos de Windows y Mac. Vea más sobre Excel con Microsoft 365.
+Microsoft PowerPoint
+
+Microsoft PowerPoint es un programa de presentación para los sistemas operativos Windows y Mac. Vea más sobre PowerPoint con Microsoft 365.
+Microsoft OneNote
+
+Microsoft OneNote es un programa apuntar notas de forma libre para los sistemas operativos Windows y Mac. Vea más sobre OneNote.
+Microsoft Outlook
+
+Microsoft Outlook es un programa de correo electrónico para los sistemas operativos Windows y Mac. Vea más sobre Outlook con Microsoft 365.
+Microsoft Publisher
+
+Microsoft Publisher es un programa de creación de publicaciones para sistemas operativos Windows. Vea más sobre Publisher con Microsoft 365.
+Microsoft Access
+
+Microsoft Access es una solución de gestión de bases de datos para sistemas operativos Windows. Vea más sobre Access con Microsoft 365.
+
+
+Paquete de oficina general: LibreOffice vs.Microsoft Office
+procesadores de texto: LibreOffice Writer frente a Microsoft Word
+aplicaciones de hojas de cálculo: LibreOffice Calc frente a Microsoft Excel
+Software de presentación: LibreOffice Impress frente a Microsoft PowerPoint
+Programa de base de datos: LibreOffice Base frente a Microsoft Access
+
+
+.doc 
+.docm 
+.docx 
+.docx 
+.dot 
+.dotm 
+.dotx 
+.htm, .html 
+.htm, .html 
+.mht; .mhtml 
+.odt 
+.pdf 
+.rtf 
+.txt 
+.wps 
+.xml 
+.xml 
+.xps 
+
+
+.csv 
+.csv 
+.csv 
+.dbf 
+.dif 
+.htm, .html 
+.mht, .mhtml 
+.ods 
+.pdf 
+.prn 
+.slk 
+.txt 
+.txt 
+.txt 
+.txt 
+.xla 
+.xlam 
+.xls 
+.xls 
+.xlsb 
+.xlsm 
+.xlsx 
+.xlsx 
+.xlt 
+.xltm 
+.xltx 
+
+
+.bmp 
+.emf 
+.gif 
+.jpg 
+.mp4 
+.odp 
+.pdf 
+.png 
+.pot 
+.potm 
+.potx 
+.ppa 
+.ppam 
+.pps 
+.ppsm 
+.ppsx 
+.ppt 
+.pptm 
+.pptx 
+.pptx 
+.pptx 
+.rtf 
+.thmx 
+
+
+Other file extensions or file formats developed for use with LibreOffice Writer
+
+doc# 
+.doc#fodt 
+.fodtstw 
+.stwsxg 
+.sxg
+Common file extensions used by LibreOffice Writer
+
+.doc 
+.docdocx 
+.docxdot 
+.dotdotm 
+.dotmdotx 
+.dotxhtml 
+.htmlodf 
+.odfodt 
+.odtott 
+.ottpages 
+.pagespdf 
+.pdfpub 
+.pubrtf 
+.rtfsdw 
+.sdwsxw 
+.sxwwpd 
+.wpdwps 
+.wpswri 
+.wri
+Other file extensions associated with LibreOffice Writer
+
+hwp 
+.hwplwp 
+.lwpmwd 
+.mwdodm 
+.odmodt# 
+.odt#psw 
+.pswsgl 
+.sgltxtrpt 
+.txtrptwpw 
+.wpw
+
+Hay algunos otros paquetes de procesamiento de textos, incluida la mayoría de las páginas de Apple, la palabra perfecta de Coral y el escritor de Office Open Open. De hecho, Open Office se hizo bastante popular entre los usuarios de Mac, pero nunca logró reemplazar completamente a MS Word para usuarios de PC. Pero ahora ahora hay un niño relativamente nuevo en el bloque de procesamiento de textos, llamado LibreOffice Writer.
+
+LibreOffice Writer es un programa en todo un conjunto de programas llamado LibreOffice, con otras aplicaciones comparables a Microsoft Office y Open Office. LibreOffice fue creada por ex Usuarios de la comunidad de Open Office e incluye al escritor como su programa de procesamiento de textos.
+
+LibreOffice también incluye Calc para hojas de cálculo, impresione las presentaciones y la base para las funciones de la base de datos. El sorteo de LibreOffice también se incluye, específico para el dibujo, e incluye muchas de las funciones disponibles a través de la característica de Word ART de MS Word.
+
+LibreOffice Writer se está convirtiendo rápidamente en una fuerza a tener en cuenta en la escena de procesamiento de la palabra. Ya se ha comprobado que es mejor y más poderoso que la oficina abierta, que algunos dicen que ahora está en su salida, ya que la mayoría de los usuarios han migrado a LibreOffice. De hecho, se cree que LibreOffice Writer se está moviendo rápidamente en posición a un día compitiendo con MS Word.
+Accesibilidad y intercambio de documentos.
+
+Todos los programas de LibreOffice Suite son de código abierto y disponibles para Windows, OS X y Linux. LibreOffice Writer ha pasado por múltiples revisiones en los últimos años a manos de voluntarios en la comunidad y ahora es uno de los programas más rápidos y poderosos de su tipo. Los usuarios informan que las características de exportación e importación de LibreOffice Writer se han mejorado enormemente en la versión más reciente.
+
+El Código para LibreOffice Writer está abierto y no "propiedad" por cualquier persona, por lo que las modificaciones al código pueden ser realizadas por cualquier persona con el know-how y no cuesta nada. Esto proporciona tremendas opciones de personalización.
+
+Y si ha estado buscando un programa que pueda abrir esos documentos antiguos en su disco duro creado en versiones de Word-Perfect o anteriores de MS-Word, LibreOffice Writer es la respuesta. El escritor también tiene su propio formato de documento predeterminado de código abierto que utiliza para guardar documentos. El formato de guardado predeterminado se puede modificar para guardar predeterminado en formato MS Office si comparte documentos con frecuencia con otros.
+
+Esto significa que LibreOffice Writer tiene la máxima compatibilidad cuando se trata de compartir documentos con otros usuarios de PC y MAC. Microsoft Word, por otro lado, forma parte del conjunto propietario de Microsoft Office. Por el lado, esto significa que las correcciones de errores pueden ser un poco más rápidas y organizadas para nuevas versiones y los problemas de seguridad se manejan de manera más eficiente.
+
+El inconveniente, por supuesto, es que la Oficina de MS es propietaria, lo que significa que debe tener permiso para realizar cualquier alteración del código si es necesario. Los usuarios también han reportado algunos problemas de compatibilidad cuando se utilizan archivos que se crearon o guardados en versiones anteriores. Esto puede hacer que los documentos compartan confusos y, a veces, complicados, dependiendo de qué versiones son utilizadas por las partes involucradas.
+Búsqueda de ortografía y gramática
+
+La función de corrección ortográfica en Microsoft Word y LibreOffice Writer trabaja de manera muy similar en que los errores se subrayan con una línea roja ondulada. Es seguro decir que la mayoría de los usuarios no verán mucha diferencia en esta característica. Mientras que Microsoft Word viene con la revisión directa incorporada, deberá descargar el diccionario, Tesauro, etc. en LibreOffice. Una vez que se instalan las extensiones de la revisión de hechizos, sin embargo, hay poca diferencia en esta característica. LIbreOffice también ofrece una característica automática correcta similar a la de Word, está activado o desactivado utilizando un botón de la barra de herramientas, lo que hace que sea mucho más fácil de acceder que en Word.
+
+El registro de gramática en MS Word subraya los errores de la gramática con una línea ondulada azul y LibreOffice Writer también utiliza este método para indicar errores de gramática. Muchos usuarios informan que la función de verificación de gramática para LibreOffice Writer es en realidad mejor que la de la función de verificación de gramática en MS Word.
+Estilos y plantillas
+
+Dado que un usuario de mucho tiempo de MS Word, tengo que admitir que siempre he encontrado los estilos y plantillas difíciles de usar. Para mí, era simplemente más fácil formatear los títulos, los encabezados y los párrafos manualmente en la mayoría de los casos que para intentar configurar un estilo guardado que podía usar con el clic de un botón. Aquellos que usan MS Word para trabajos de documentos más repetitivos pueden estar en desacuerdo. Desde mi breve revisión de las características de los estilos en el escritor, parece ser un poco menos complicado de usar. El menú de estilos está ubicado en una barra lateral e incluye formato preestablecido para cosas como números de página, enlaces de Internet, cotización, énfasis, etc.
+
+Las plantillas están diseñadas para facilitar la vida cuando se trata de formatear y pulir un documento. Una vez que encuentre una plantilla que le guste, puede agregar su texto y el resultado es un documento de aspecto profesional completo con formato consistente, esquema de color y todo lo que desea.
+
+Tanto la palabra como la escritora de Libreffice ofrecen el uso de plantillas.
+
+MS Word viene precargado con muchas más plantillas que LibreOffice. Este es quizás el único inconveniente para LibreOffice Writer. Para usar una plantilla, primero debe encontrar el que desee, descarguelo, ábralo y déle un nuevo nombre y luego guárdelo en la carpeta Mis plantillas. Aunque hay más de 300 plantillas disponibles para LibreOffice, todas se enumeran juntas sin distinción en cuanto a las que son para el escritor, calc, dibujar, etc. MS Word gana aquí, le permite buscar plantillas solo plantillas de palabras, o solo plantillas de Excel , etc.
+Usabilidad
+
+Aunque algunos usuarios informan que la interfaz del escritor de LibreOffice es clunky y que las opciones de menú pueden ser confusas, me parece más fácil navegar que los menús de la cinta. Los botones están justo allí en la barra de herramientas, representados por los iconos. Los menús son definitivamente más desordenados, un retroceso a los menús que utilizamos en las versiones de la palabra de la década de 1980. Pero con un poco de conocimientos, puede personalizar su barra de herramientas y reducir el desorden.
+
+De hecho, mientras está escribiendo este artículo I cambió a propósito de MS Word a LibreOffice Writer. Pude abrir y manipular el archivo de Word original sin ninguna dificultad, y realmente no vimos una diferencia sustancial en la forma en que interactué con las dos interfaces.
+
+El único inconveniente para LibreOffice Writer es que actualmente no existe una tableta o una versión basada en la nube del software. Esto solo le importará si usted es alguien que se ha acostumbrado a usar su MS Word desde su teléfono o tableta para ver y trabajar con documentos.
+Precio
+
+Después de observar los pros y los contras de LibreOffice Writer y Microsoft Word en cuanto a las características, el precio es donde LibreOffice Writer toma el trofeo. Aunque Microsoft Word ofrece una versión de prueba gratuita de 30 días, debe pagar la versión completa y pagar las tarifas para actualizar a cualquier versión futura. Para usar Word en más de la cantidad permitida de dispositivos, debe pagar tarifas de licencia adicionales.
+
+Los paquetes de idioma adicionales implican más tarifas. Incluso sus aplicaciones basadas en la nube lo golpean en la billetera, cobrando una tarifa mensual recurrente. Si no puede realizar su pago por cualquier motivo, entonces corre el riesgo de perder el acceso a todos sus documentos.
+
+LibreOffice, por otro lado, es completamente libre de usar. Simplemente vaya al sitio de LibreOffice y descargue la última versión del software. Se necesita cuestión de minutos y estás en marcha. Las extensiones y las plantillas se pueden instalar sin cargo adicional.
+
+El programa se puede instalar simultáneamente con MS Word y / o Open Office, lo que significa que puede descargar una copia hoy y probarlo sin tener que alterar su configuración existente. Si no te gusta LibreOffice Writer por cualquier motivo, simplemente puede volver a usar la palabra.
+Otras características
+
+Con LibreOffice, las lenguas de scripting macro son compatibles con múltiples idiomas, incluyendo JavaScript, Python, LibreOffice Basic y Beanshell. VBA (Visual Basic para aplicaciones) es compatible con las funciones de importación y exportación. Microsoft Office admite solo VBA o Visual C # o Visual Basic a través de la automatización. Si sus proyectos requieren rutinariamente el uso de imágenes, audio o archivos digitales, encontrará que estos son mucho más fácilmente importados y apoyados en LibreOffice Writer que en MS Word. LibreOffice Writer también tiene opciones extendidas de exportación PDF sobre MS Word.
+
+MS Word admite más funciones, como la numeración del esquema complejo, el formato de texto enriquecido complejo en comentarios, bordes de la página decorativa, las marcas de agua y las opciones de visualización, como el documento de división horizontal, el esquema y el borrador, pero muchos de estos son posibles en LibreOffice a través de extensiones libres o un solución alterna.
+
+En conclusión, está claro que LibreOffice Writer puede reemplazar a MS Word para muchos usuarios básicos e intermedios de Word. De hecho, aquellos que utilizan MS Word para proyectos de creación y escritura de documentos simples, probablemente, ni siquiera notificarán ninguna característica ausente. Los usuarios de energía pueden tener que instalar extensiones y hacer uso de plantillas para acercarse a la experiencia de Word Packed Feature. Pero en mi experiencia, LibreOffice Writer funcionará, así como la palabra para la mayoría de los usuarios sin mucha modificación en absoluto.
+
+La compensación, por supuesto, es que el escritor Libreffice puede ser más lento para desarrollar componentes para la integración con otras tecnologías, como aplicaciones móviles y en la nube. Debido a que los desarrollos y las correcciones de errores son desarrolladas e implementadas por usuarios de voluntarios en lugar de personal dedicado a Microsoft, toman un poco más, pero al final se enfocan más de usuario. Por lo tanto, mientras que LibreOffice está abierta y, por lo tanto, fácil de modificar y personalizar, puede tomar un poco más de esfuerzo en el final del usuario para realizar esas modificaciones.
+
+Las razones principales para cambiar de usar MS Word a LibreOffice Writer son costos y controles. LibreOffice Writer proporciona una alternativa completamente gratuita a MS Word. No se preocupe que la falta de pago de las tarifas de renovación restringirá el acceso futuro a los documentos. Los usuarios ya no se verán obligados a pagar las tarifas de licencias por el nuevo y solo un poco revisado versioens de palabra o para permiso para utilizar el software en dispositivos adicionales.
+
+Parecería que el escritor de LibreOffice sería una tremenda empresa de ahorro de costos para muchos gobiernos y entidades públicas, incluidas escuelas, personal de emergencia, juntas públicas, etc. No hay ningún costo involucrado con este software, por lo que se está asignando dinero para las licencias de software de Microsoft Office , las tarifas de renovación y las tarifas de los múltiples usuarios podrían asignarse para cosas más importantes. Debido a que la interfaz del escritor de LibreOffice se parece tan estrechamente las versiones anteriores de MS Word, también habría muy poco si se necesitaba una reorganización de personal.
+
+Entonces, después de una revisión inicial de LibreOffice Writer en comparación con Microsoft Word, tendría que recomendar que todos descarguen una copia de LibreOffice hoy y comiencen a usar LibreOffice Writer para sus proyectos diarios. Realmente es un proceso sin problemas para cambiar entre LibreOffice Writer y MS Word, por lo que no hay razón para no probarlo. Use LibreOffice Writer por unos meses para asegurarse de que hará lo que usted necesita específicamente que haga. Y luego ofertar a Microsoft Office y sus tarifas de licencia se despiden para siempre.
+
+Para lo verdaderamente valiente, el siguiente paso para liberarte del control corporativo naturalmente sería cambiar su sistema informático completo a Linux, pero eso es un poco más complejo. Creo que para la mayoría de las personas, haciendo que el cambio de Microsoft Office a LibreOffice los ahorrará dinero sustancial y sea suficiente aventura para este año al menos.
+Para obtener más información sobre el mejor software de escritura y para descubrir los programas esenciales que todos los escritores deben tener, lea mi artículo sobre el kit de herramientas del escritor.

@@ -1,0 +1,69 @@
+Métodos abreviados de teclado de Windows
+Nombre completo 
+Nombre de la Universidad     
+	
+		
+
+Introducción 
+Los accesos directos que muchas veces son llamados atajos de teclado. Son de utilidad para realizar tareas comunes. Estos son  una forma rápida de realizar acciones específicas sin tener que pasar por el proceso de búsqueda dentro de una interfaz gráfica. Los accesos directos  y accesos rápidos son similares. En cuestión, estos son métodos que agilizan el acceso u otro procedimiento función o acción que puede realizar una computadora. Estas combinaciones se activan al presionar uno o varios botones del teclado. 
+
+
+
+Discusión 
+
+Los atajos de teclado  son muy utilizados en la actualidad. Sin embargo existe también una gran cantidad de personas que no los conocen o al menos lo logran memorizar muchos de ellos. Al final de este documento se muestra una lista completa de todos los atajos de teclado disponibles para el sistema operativo Windows y adicionalmente referencias para otros sistemas operativos, como lo son Mac y Linux. No centraremos en Windows  pues es él más utilizado en la actualidad.   
+
+
+Podemos clasificar los atajos de teclado  como: 
+
+Atajos de teclado básicos.
+Atajos de teclado en navegadores de internet.
+Atajos de teclado de nivel medio.
+Atajos de teclado para organizar ventanas.
+Atajos de teclado si tienes más de un monitor.
+
+
+Los atajos básicos pueden ser:
+Ctrl + C: copiar, se copiará el texto seleccionado, la carpeta o la imagen o imágenes que tengamos seleccionadas en ese momento.
+Ctrl + X: cortar, se cortará el texto seleccionado, la carpeta o la imagen o imágenes que tengamos seleccionadas en ese momento.
+Ctrl + V: pegar, se pegará cualquier cosa que hayamos copiado o cortado anteriormente.
+Ctrl + Z: deshacer, deshace la última acción realizada.
+Ctrl + Y: rehacer, rehace la última acción realizada.
+Ctrl + P: imprimir, se abre el diálogo de impresión de la imagen, archivo o página web que tengamos abierta o seleccionada
+
+Los atajos de teclado de nivel medio pueden ser:
+
+Win + (1 al 0): Abrir la aplicación correspondiente que tengamos anclada en la barra de tareas.
+Ctrl + G: guardar para programas en español.
+Ctrl + S: guardar para programas en inglés (algunos programas con idioma castellano, pero de origen anglosajón también utilizan este atajo).
+Ctrl + A: (1) abrir, para abrir un archivo en programas en español, o (2) seleccionar todo para programas en inglés.
+Ctrl + O: abrir, para abrir un archivo en programas en inglés.
+Ctrl + B: buscar, en programas en español.
+Ctrl + F: buscar, en programas en inglés o de origen inglés.
+
+
+Los atajos de teclado para organizar ventanas pueden ser:
+
+Win + D: minimizar todo, minimiza todas las ventanas y deja el foco en el escritorio.
+Win + Arriba: maximizar, maximiza la ventana activa.
+Win + Abajo: restaurar / Minimizar, si la ventana esta maximizada la restaura, y si esta sin maximizar la minimiza.
+Win + Derecha: anclar, ancla la ventana a la derecha del escritorio ocupando la mitad del mismo.
+Win + Iquierda: anclar, ancla la ventana a la izquierda del escritorio ocupando la mitad del mismo.
+Win + L: bloquear el usuario, cierra la sesión del usuario, solicitando la contraseña si está definida.
+Win + inicio: minimiza o restaura la ventana activa.
+
+
+Los Atajos de teclado si tienes más de un monitor pueden ser:
+
+Win + Shift + Izquierda: mueve la ventana activa al siguiente monitor.
+Win + Shift + Derecha: mueve la ventana activa al anterior monitor.
+
+
+Estas acciones pueden realizarse habitualmente de otro modo. Navegando por los menús, tecleando una instrucción más extensa, o utilizando el ratón. Por lo que los atajos de teclado nos ayuda a reducir estos pasos a combinaciones de teclas lo que se traduce en ahorro ahorrar tiempo y la optimización de la experiencia de usuario. Los accesos rápidos normalmente agilizan operaciones comunes, reduciendo varias secuencias de entrada a unas pocas pulsaciones de teclas.
+
+También tenemos  los Accesos directos de teclado de Windows para accesibilidad. Lo que permite a personas con cierta discapacidad  física el acceder al sistema. Unque aquí deberíamos tocar le tema de interfaz y los componentes  de audio, como métodos de acceso a la información, pero solo es un ejemplo de como las  combinaciones de letras  puede proveer acceso a personas  con discapacidad auditiva activar un lector de pantalla. Puede que  estos atajos de teclados sean los más comunes. También están los de contraste  para personas con discapacidad visual.
+
+
+Colusión
+
+En con colusión los atajos de teclado  son muy útiles para acelerar el trabajo realizado con ordenadores. Por otro lado aportan a la accesibilidad, ya que brindan la posibilidad de realizar aciones con combinaciones de letras, lo que ayuda mucho a personas con discapacidades en sus habilidades motoras.

@@ -1,0 +1,22 @@
+Buen día. Comprendo que hablamos de estas instrucciones y yo le realicé sugerencias  sobre el proyecto a entregar  y le comenté sobre hacer un proyecto usando el software para desarrollo web, sin embargo cuando vuelvo a leer estas instrucciones, veo que si las instrucciones llevan un orden cronológico el software al que se refiere es al que usamos en el trabajo anterior o tal vez me equivoco. Como ya sabes usamos una comparación de Microsoft Office y LibreOffice. Yo no poseo Microsoft Office, yo tengo instalado en mi sistema LibreOffice. Por lo que el  proyecto tendría capturas de pantalla del sistema LibreOffice. Ya que en las instrucciones  es requerido mostrar muestras del trabajo. 
+
+"
+Mi pregunta sería:
+¿Realizo el trabajo usando XAMPP, PHP, MySQL, JavaScript, CSS y HTML? ¿O tal vez deba realizar  el trabajo usando LibreOffice usando copias de pantalla de mi sistema  para mostrar pruebas del trabajo?
+" 
+
+En caso de usar el software de la primera pregunta. 
+¿Qué debe hacer el programa? 
+
+En caso de la segunda pregunta. 
+¿De qué será la presentación? 
+
+Recuerde que con el software de aplicación web se pueden hacer cosas propias de aplicaciones web en cambio usando el software de ofimática o sea LibreOffice o Microsoft Office,  solo se limita a presentaciones, hojas de cálculo y documentos de texto. Imagino que si elige la opción del software de ofimática debe elegir uno de los tres. Un trabajo en Exel, o en  Word, o en PowerPoint. En  caso de elegir el software de desarrollo de aplicaciones debo saber que debe hacer el programa. Por ejemplo una interfaz con botones que manipule  y modifique los elementos visuales.   
+
+---
+Estas son las instrucciones de ese trabajo.  
+"Busque y prepare un proyecto con el software utilizado en su área del estudio, incluya muestras de obras."
+---
+
+Necesito que me diga lo que realizaré, antes de comenzar este trabajo, pues no estoy muy seguro de lo que el profesor desea que le entreguen. Pues las instrucciones son muy generales y depende de lo  que se está hablando en clase para tomar la decisión correcta. No quiero realizar un trabajo erróneo para usted. 
+Lo ideal es que le pregunte al profesor sobre esto de ser posible.

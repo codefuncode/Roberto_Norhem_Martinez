@@ -1,0 +1,65 @@
+﻿
+    1.  
+       1
+       Establece los parámetros básicos de formato. Un ensayo con formato de la APA debe usar una letra de 12 puntos y debe redactarse a doble espacio. Se recomienda usar márgenes de 2,5 cm (1 pulgada) en los cuatro lados. Utiliza este formato básico en todas las páginas del artículo.[1] 
+    2.  
+       2
+       Idea un título bastante breve. La APA recomienda usar un título corto, pero llamativo y directo al punto. Un título de 10 a 12 palabras tiene una longitud adecuada y debe a decirles a los lectores de lo que trata exactamente el artículo.[2] 
+        ◦ Por ejemplo, un título como “Edad, salud y ciudades” es muy corto e impreciso. 
+        ◦ El título “Influencias de la edad en la percepción del acceso a la asistencia sanitaria en las ciudades” es más informativo. 
+        ◦ Coloca el título al centro de la página. 
+    3.  
+       3
+       Incluye tu nombre e institución debajo del título. Está bien que los redactes a doble espacio. No es necesario que incluyas espacios adicionales entre el título y esta información. Debe verse algo así: 
+        ◦ La edad como una influencia en el acceso percibido a la asistencia sanitaria en las ciudades 
+        ◦ Rohanda Jenkins 
+        ◦ Universidad de Toledo 
+    4.  
+       4
+       Usa el encabezado de la página. Cada página del artículo, incluida la página del título, debe contar con un encabezado. Debe ser un resumen breve del título del artículo. Debe tener menos de 50 caracteres y encontrarse en todos los capítulos.[3] 
+        ◦ Por ejemplo, “Edad y acceso percibido a la asistencia sanitaria”.
+    5.  
+       5
+       Escribe el número de página en la parte superior derecha. El número de página debe escribirse en la misma línea que el encabezado, a la derecha. Configura los números de páginas para que aparezcan automáticamente en cada página.[4] 
+Elaborar el contenido principal 
+    1.  
+       1
+       Presenta el artículo. La primera sección del ensayo con formato de la APA será la introducción, pero no es necesario que lleve ese encabezado. Solo escribe el título del ensayo (con letra normal) al inicio de la siguiente página y luego empieza a redactar la introducción en la siguiente línea.[5] 
+        ◦ La introducción debe resumir el tema, su relevancia para la investigación e indicar cómo llegaste a tu hipótesis. 
+        ◦ Mantén las cosas interesantes. Evita aburrir a tus lectores con frases como “Schmidt concluyó en 2009 que...”, “Tal como Donaldson indicó en 2011…”, “Luego, en 2013, Pavlov argumentó que…”. 
+        ◦ Más bien, escribe en términos de ideas: “Algunos académicos como Schmidt y Donaldson han demostrado que hay una variabilidad amplia en el acceso a la asistencia sanitaria. No se ha considerado adecuadamente el rol de la edad en la creación de esta variabilidad. Conocer las opciones de asistencia sanitaria entre los ancianos es un punto de partida importante que se analiza en la investigación de Pavolv, pero se necesita un estudio más integral de influencias basadas en la edad”. 
+    2.  
+       2
+       Etiqueta la sección de los métodos. En negrita, después de la introducción, escribe en el centro la palabra “Método”. Esta sección es un poco más fácil. Debe describir, en términos simples, el diseño exacto de tu investigación. Crea subsecciones para describir a los participantes, materiales y procedimientos empleados en tu estudio. No uses saltos de página entre estas subsecciones o cualquier otra sección del artículo.[6] 
+        ◦ Titula cada subsección (“Participantes”, “Materiales”, “Procedimientos”) con negrita y hacia la izquierda. Empieza cada párrafo en la siguiente línea. 
+        ◦ Si es necesario describir los equipos empleados, también puedes incluir la sección “Aparatos” en lugar de o además de la sección “Materiales”. 
+        ◦ El objetivo de la sección “Métodos” es mostrarles a otros investigadores cómo replicar el estudio en caso de que deseen hacerlo. 
+    3.  
+       3
+       Comparte tus resultados. Escribe la palabra “Resultados” en negrita y en el centro después de la última de las subsecciones de métodos. Asegúrate de incluir estadísticas que analicen tu estudio, en caso de que sea aplicables.[7] 
+        ◦ Recurre al manual del APA o a tu campo específico para encontrar información precisa sobre cómo darles formato a las estadísticas. 
+        ◦ Haz referencia a cualquier material complementario que tengas en el artículo (cuadros, imágenes, gráficos, tablas, etc.). Por ejemplo, podrías escribir algo como “Tal como el gráfico 1 indica…”. 
+    4.  
+       4
+       Diles a los lectores la importancia de tu trabajo en la sección de análisis. Etiqueta esta sección como “Análisis” en negrita, en el centro, justo después de la sección “Resultados”. Señala si tus hallazgos concuerdan o no con tu hipótesis (y tus suposiciones en cuanto a las razones). Asegúrate de reconocer cualquier límite en tu estudio. También puedes mencionar lo que otros académicos podrían hacer luego con base en tus hallazgos.[8] 
+        ◦ Por ejemplo, esta sección podría señalar algo como “Aunque este estudio indicó que los adolescentes perciben la asistencia sanitaria como menos accesible que los adultos mayores de 35 años, se necesitan más investigaciones para analizar este tema en las personas entre 18 y 35 años”.
+Aplicar los toques finales 
+    1.  
+       1
+       Añade la sección “Referencias”. Debes citar todas las fuentes empleadas en tu estudio según las pautas de formato de la APA. Después de la sección “Análisis”, también debes incluir una lista completa de información bibliográfica para estas citas, después de la palabra “Referencias” en el centro y en negrita.[9] 
+        ◦ Escribe las referencias alfabéticamente, según el apellido del primer autor. 
+        ◦ No coloques un espacio adicional entre cada referencia. El espaciado doble normal es todo lo que necesitas. 
+        ◦ Usa la sangría para las entradas de las referencias. 
+        ◦ También asegúrate de incluir las citas con formato APA si escribes una referencia en el contenido principal del ensayo. 
+    2.  
+       2
+       Incluye cualquier tabla o gráfico que hayas creado. El formato de las tablas y gráficos varía según tu campo, así como el diseño del estudio. Revisa el manual de formato de la APA más reciente o las autoridades del campo si quieres algunas recomendaciones. Si incluyes muchas tablas y gráficos, dale a cada uno su propia página.[10] 
+        ◦ Sin embargo, si eres un estudiante, tu instructor podría pedirte que incorpores las tablas o gráficos en el contenido principal del artículo. Siempre pregunta si tienes alguna duda.
+    3.  
+       3
+       Escribe el resumen en una página aparte. Redacta un párrafo que resuma el tema, los métodos, los resultados y los análisis. Limítalo a 150 a 250 palabras. Al igual que el resto del artículo, debe estar a doble espacio. No obstante, debe tener un formato bloque, es decir, no debes escribir con sangría la primera línea.[11] 
+        ◦ Escribe la palabra “Resumen”, en el centro y con letra normal en la línea previa del párrafo. 
+        ◦ Debes escribir el resumen después de haber terminado el artículo, pero colócalo en su propia página justo después de la página del título. 
+Acerca de este wikiHow
+Esta página ha recibido 389 708 visitas.
+
